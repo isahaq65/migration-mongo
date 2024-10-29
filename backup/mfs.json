@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "670b4aa939b86b785e9e40e5",
+    "name": "Bkash",
+    "code": "1001",
+    "paymentTypeId": 1,
+    "__v": 0,
+    "created_date": "2024-10-13T04:20:57.537Z",
+    "createdby_id": 6,
+    "lastmodified_date": "2024-10-13T06:27:16.620Z",
+    "lastmodifiedby_id": 1
+  },
+  {
+    "_id": "670b4ac539b86b785e9e40fa",
+    "name": "Nagad",
+    "code": "1002",
+    "paymentTypeId": 1,
+    "__v": 0,
+    "created_date": "2024-10-13T04:21:25.513Z",
+    "createdby_id": 6,
+    "lastmodified_date": "2024-10-13T04:21:49.337Z",
+    "lastmodifiedby_id": 6
+  },
+  {
+    "_id": "670b4ae739b86b785e9e4116",
+    "name": "Rocket",
+    "code": "1003",
+    "paymentTypeId": 1,
+    "__v": 0,
+    "created_date": "2024-10-13T04:21:59.107Z",
+    "createdby_id": 6
+  },
+  {
+    "_id": "670b4b4839b86b785e9e4176",
+    "name": "Tap",
+    "code": "1004",
+    "paymentTypeId": 1,
+    "__v": 0,
+    "created_date": "2024-10-13T04:23:36.780Z",
+    "createdby_id": 6
+  }
+]

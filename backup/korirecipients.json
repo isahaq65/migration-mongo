@@ -1,0 +1,147 @@
+[
+  {
+    "_id": "670b5de4191568b0d0f1b557",
+    "accountHolderName": "Turna",
+    "accountNumber": "000000001",
+    "user": "670b5b52191568b0d0f1b45f",
+    "creationDate": "2024-10-13T05:43:00.710Z",
+    "__v": 0
+  },
+  {
+    "_id": "670cb0696ae5b1a3d8a1e17f",
+    "accountHolderName": "Iffat Fahmida Turna ",
+    "accountNumber": "000000021",
+    "user": "670b5b52191568b0d0f1b45f",
+    "creationDate": "2024-10-14T05:47:21.719Z",
+    "__v": 0
+  },
+  {
+    "_id": "670cb16e6ae5b1a3d8a1e29a",
+    "accountHolderName": "Ibtid",
+    "accountNumber": "000000015",
+    "user": "670b5d02191568b0d0f1b4d1",
+    "creationDate": "2024-10-14T05:51:42.713Z",
+    "__v": 0
+  },
+  {
+    "_id": "670e1514b8caba45a7bef1a7",
+    "accountHolderName": "dgdfsg",
+    "nickName": "dsgfsd",
+    "accountNumber": "000000006",
+    "user": "670e049d6ae5b1a3d8a20909",
+    "creationDate": "2024-10-15T07:09:08.816Z",
+    "__v": 0
+  },
+  {
+    "_id": "670e22fff765e75ecfe60450",
+    "accountHolderName": "Riaj Hosen",
+    "accountNumber": "000000002",
+    "user": "670ca0b56ae5b1a3d8a1d87a",
+    "creationDate": "2024-10-15T08:08:31.322Z",
+    "__v": 0
+  },
+  {
+    "_id": "670e2adef788d63d823dca9c",
+    "accountHolderName": "Riaj Hosen",
+    "accountNumber": "000000034",
+    "user": "670e049d6ae5b1a3d8a20909",
+    "creationDate": "2024-10-15T08:42:06.163Z",
+    "__v": 0
+  },
+  {
+    "_id": "670e498ecb4325110177945c",
+    "accountHolderName": "Riaj Hosen",
+    "nickName": "Riaj",
+    "accountNumber": "000000051",
+    "user": "670ca0b56ae5b1a3d8a1d87a",
+    "creationDate": "2024-10-15T10:53:02.503Z",
+    "__v": 0
+  },
+  {
+    "_id": "6718c0bbfa0219a871a1097e",
+    "accountHolderName": "Junaed",
+    "nickName": "JJ",
+    "accountNumber": "000000032",
+    "user": "670b494239b86b785e9e3fad",
+    "creationDate": "2024-10-23T09:24:11.969Z",
+    "__v": 0
+  },
+  {
+    "_id": "6718c2b63d308a15c2d3e65f",
+    "accountHolderName": "JUNAED HOSSAIN ",
+    "accountNumber": "000000079",
+    "user": "670e0de06ae5b1a3d8a214a0",
+    "creationDate": "2024-10-23T09:32:38.017Z",
+    "__v": 0
+  },
+  {
+    "_id": "6718e0d4fa0219a871a14a03",
+    "accountHolderName": "JJJJ",
+    "nickName": "JO",
+    "accountNumber": "000000009",
+    "user": "670b494239b86b785e9e3fad",
+    "creationDate": "2024-10-23T11:41:08.480Z",
+    "__v": 0
+  },
+  {
+    "_id": "6718ee21fa0219a871a16481",
+    "accountHolderName": "gsusksks",
+    "nickName": "Hehhe",
+    "accountNumber": "000000032",
+    "user": "670f6e68134d51df96a95f32",
+    "creationDate": "2024-10-23T12:37:53.069Z",
+    "__v": 0
+  },
+  {
+    "_id": "6718ee6cfa0219a871a164cd",
+    "accountHolderName": "bdjsjsnvzvz",
+    "accountNumber": "000000089",
+    "user": "670f6e68134d51df96a95f32",
+    "creationDate": "2024-10-23T12:39:08.051Z",
+    "__v": 0
+  },
+  {
+    "_id": "6719f60b7bc807fb616e487c",
+    "accountHolderName": "shzhsh",
+    "nickName": "xhh",
+    "accountNumber": "54546464",
+    "user": "670f6e68134d51df96a95f32",
+    "creationDate": "2024-10-24T07:23:55.100Z",
+    "__v": 0
+  },
+  {
+    "_id": "6719f7727bc807fb616e4982",
+    "accountHolderName": "mmssnns",
+    "nickName": "mah",
+    "accountNumber": "569",
+    "user": "6718c18c3d308a15c2d3e635",
+    "creationDate": "2024-10-24T07:29:54.714Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a07183e01cd9339e22821",
+    "accountHolderName": "Turna Iffat",
+    "accountNumber": "000000086",
+    "user": "6718a01cfa0219a871a0cf6f",
+    "creationDate": "2024-10-24T08:36:40.081Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a0bf47bc807fb616e737e",
+    "accountHolderName": "nznsn",
+    "nickName": "vaba",
+    "accountNumber": "815164677",
+    "user": "670f6e68134d51df96a95f32",
+    "creationDate": "2024-10-24T08:57:24.005Z",
+    "__v": 0
+  },
+  {
+    "_id": "671f7210523051512654a021",
+    "accountHolderName": "NameHolder",
+    "nickName": "HolderNick",
+    "accountNumber": "000000005",
+    "user": "670defb96ae5b1a3d8a20159",
+    "creationDate": "2024-10-28T11:14:24.532Z",
+    "__v": 0
+  }
+]

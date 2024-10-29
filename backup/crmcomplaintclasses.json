@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "66f0f7ece5bef6367d6a6a46",
+    "isRoot": true,
+    "title": "Root Class 3",
+    "parents": "",
+    "__v": 0
+  },
+  {
+    "_id": "66f0fab404d0d01d7a408e9a",
+    "isRoot": false,
+    "title": "Non-Root Class 2",
+    "__v": 0,
+    "parent": "66f0f77ccf7a264a8ea26c1e"
+  },
+  {
+    "_id": "66f0f77ccf7a264a8ea26c21",
+    "isRoot": true,
+    "title": "Root Class 5",
+    "parents": "",
+    "__v": 0
+  },
+  {
+    "_id": "66f0fab404d0d01d7a408e9b",
+    "isRoot": false,
+    "title": "Non-Root Class 3",
+    "__v": 0,
+    "parent": "66f0f77ccf7a264a8ea26c1f"
+  },
+  {
+    "_id": "66f0fab404d0d01d7a408e9d",
+    "isRoot": false,
+    "title": "Non-Root Class 5",
+    "__v": 0,
+    "parent": "66f0f77ccf7a264a8ea26c21"
+  },
+  {
+    "_id": "66f0f77ccf7a264a8ea26c1f",
+    "isRoot": true,
+    "title": "Root Class 3",
+    "parents": "",
+    "__v": 0
+  },
+  {
+    "_id": "66f0fab404d0d01d7a408e99",
+    "isRoot": false,
+    "title": "Non-Root Class 1",
+    "__v": 0,
+    "parent": "66f0f77ccf7a264a8ea26c1d"
+  },
+  {
+    "_id": "66f0fab404d0d01d7a408e9c",
+    "isRoot": false,
+    "title": "Non-Root Class 4",
+    "__v": 0,
+    "parent": "66f0f77ccf7a264a8ea26c20"
+  },
+  {
+    "_id": "66f52f5a755d74774826eac0",
+    "isRoot": true,
+    "title": "root 8",
+    "parent": null,
+    "__v": 0
+  },
+  {
+    "_id": "66f0f77ccf7a264a8ea26c1e",
+    "isRoot": true,
+    "title": "Root Class 2",
+    "parents": "",
+    "__v": 0
+  },
+  {
+    "_id": "66f0f7ece5bef6367d6a6a48",
+    "isRoot": true,
+    "title": "Root Class 5",
+    "parents": "",
+    "__v": 0
+  },
+  {
+    "_id": "66f263fb2eb8feadbf0d074f",
+    "isRoot": true,
+    "title": "grand root node",
+    "parent": null,
+    "__v": 0
+  },
+  {
+    "_id": "66f0f77ccf7a264a8ea26c1d",
+    "isRoot": true,
+    "title": "Root Class 1",
+    "parents": "",
+    "__v": 0
+  },
+  {
+    "_id": "66f0f77ccf7a264a8ea26c20",
+    "isRoot": true,
+    "title": "Root Class 4",
+    "parents": "",
+    "__v": 0
+  },
+  {
+    "_id": "66f0f7ece5bef6367d6a6a45",
+    "isRoot": true,
+    "title": "Root Class 2",
+    "parents": "",
+    "__v": 0
+  },
+  {
+    "_id": "66f251cb112462ec6eeadbd9",
+    "isRoot": false,
+    "title": "New No Root",
+    "parent": "66f0f77ccf7a264a8ea26c1d",
+    "__v": 0
+  },
+  {
+    "_id": "66f0f7ece5bef6367d6a6a44",
+    "isRoot": true,
+    "title": "Root Class 1",
+    "parents": "",
+    "__v": 0
+  },
+  {
+    "_id": "66f0f7ece5bef6367d6a6a47",
+    "isRoot": true,
+    "title": "Root Class 4",
+    "parents": "",
+    "__v": 0
+  },
+  {
+    "_id": "66f26243e522c063153f68d6",
+    "isRoot": false,
+    "title": "ultra New No Root",
+    "parent": "66f0f77ccf7a264a8ea26c1d",
+    "__v": 0
+  },
+  {
+    "_id": "66f52ff7755d74774826eac2",
+    "isRoot": true,
+    "title": "Mobile Recharge",
+    "parent": null,
+    "__v": 0
+  }
+]

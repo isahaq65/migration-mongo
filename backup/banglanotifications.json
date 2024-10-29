@@ -1,0 +1,130 @@
+[
+  {
+    "_id": "670b4c8839b86b785e9e429d",
+    "title": "ফান্ড ট্রান্সফার ",
+    "subTitle": "ফান্ড ট্রান্সফার ",
+    "body": "আপনার একাউন্ট এ $amount টাকা $toAccount এ $fromAccount থেকে ফান্ড ট্রান্সফার সফল হয়েছে। আপনার লেনদেন আইডি হল: $trxId",
+    "variables": [
+      "amount",
+      "toAccount",
+      "fromAccount",
+      "trxId"
+    ],
+    "notification": "670b4c6339b86b785e9e4275",
+    "__v": 0,
+    "created_date": "2024-10-13T04:28:56.405Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "670b4cc039b86b785e9e42e2",
+    "title": "মোবাইল রিচার্জ ",
+    "subTitle": "মোবাইল রিচার্জ ",
+    "body": "$amount টাকা $mobileNumber এ $fromAccount মোবাইল রিচার্জ থেকে সফল হয়েছে। আপনার লেনদেন আইডি হল: $trxId",
+    "variables": [
+      "amount",
+      "mobileNumber",
+      "fromAccount",
+      "trxId"
+    ],
+    "notification": "670b4ca839b86b785e9e42b3",
+    "__v": 0,
+    "created_date": "2024-10-13T04:29:52.247Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "670b4d1b39b86b785e9e432e",
+    "title": "পে বিল",
+    "subTitle": "পে বিল",
+    "body": "$amount টাকা আপনার $fromAccount থেকে $toAccount এ বিল পে করা হয়েছে। আপনার লেনদেন আইডি হল: $trxId",
+    "variables": [
+      "amount",
+      "fromAccount",
+      "toAccount",
+      "trxId"
+    ],
+    "notification": "670b4d0439b86b785e9e431d",
+    "__v": 0,
+    "created_date": "2024-10-13T04:31:23.532Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "670b4d5439b86b785e9e43a3",
+    "title": "ডিপোজিট ",
+    "subTitle": "ডিপোজিট ",
+    "body": "আপনার একাউন্ট এ $amount টাকা $fromAccount থেকে $toAccount এ জমা হয়েছে। আপনার লেনদেন আইডি হল: $trxId",
+    "variables": [
+      "amount",
+      "fromAccount",
+      "toAccount",
+      "trxId"
+    ],
+    "notification": "670b4d3f39b86b785e9e4364",
+    "__v": 0,
+    "created_date": "2024-10-13T04:32:20.235Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "670b4d9039b86b785e9e43ea",
+    "title": "রিসিভ মানি",
+    "subTitle": "রিসিভ মানি",
+    "body": "আপনি $amount টাকা পেয়েছেন $fromAccount থেকে আপনার $toAccount এ। আপনার লেনদেন আইডি হল: $trxId",
+    "variables": [
+      "amount",
+      "fromAccount",
+      "toAccount",
+      "trxId"
+    ],
+    "notification": "670b4d7e39b86b785e9e43d3",
+    "__v": 0,
+    "created_date": "2024-10-13T04:33:20.615Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "670b4de239b86b785e9e441f",
+    "title": "পিন আপডেট ",
+    "subTitle": "পিন আপডেট ",
+    "body": "আপনার পিন সফলভাবে পরিবর্তন করা হয়েছে",
+    "variables": [],
+    "notification": "670b4dc739b86b785e9e4409",
+    "__v": 0,
+    "created_date": "2024-10-13T04:34:42.685Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "67164041595319fe750ac4c2",
+    "title": "একাউন্ট বন্ধ ",
+    "subTitle": "একাউন্ট বন্ধ",
+    "body": "আপনার অ্যাকাউন্ট-  $accountNumber সফলভাবে বন্ধ করা হয়েছে",
+    "variables": [
+      "accountNumber"
+    ],
+    "notification": "67163cf0595319fe750ac330",
+    "__v": 0,
+    "created_date": "2024-10-21T11:51:29.049Z",
+    "createdby_id": 6
+  },
+  {
+    "_id": "6716412d595319fe750ac535",
+    "title": "একাউন্ট বন্ধ রিকুয়েষ্ট",
+    "subTitle": "একাউন্ট বন্ধ রিকুয়েষ্ট",
+    "body": "আপনার অ্যাকাউন্ট - $accountNumber বন্ধ করার অনুরোধ গৃহীত হয়েছে। আপনার অ্যাকাউন্ট বন্ধ করার জন্য বকেয়া পরিশোধ করুন",
+    "variables": [
+      "accountNumber"
+    ],
+    "notification": "6716409b595319fe750ac526",
+    "__v": 0,
+    "created_date": "2024-10-21T11:55:25.061Z",
+    "createdby_id": 6
+  },
+  {
+    "_id": "6716419c595319fe750ac545",
+    "title": "কে ওয়াই সি ",
+    "subTitle": "ই কে ওয়াই সি ",
+    "body": "অভিনন্দন! আপনি সফলভাবে KYC সম্পন্ন করেছেন।",
+    "variables": [],
+    "notification": "67164176595319fe750ac53b",
+    "__v": 0,
+    "created_date": "2024-10-21T11:57:16.730Z",
+    "createdby_id": 6
+  }
+]

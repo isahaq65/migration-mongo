@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "670b4b8439b86b785e9e4196",
+    "name": "Internet",
+    "operatorId": "670b4ad739b86b785e9e40ff",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4d1639b86b785e9e4328",
+    "name": "Minute",
+    "operatorId": "670b4ad739b86b785e9e40ff",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4dbf39b86b785e9e4405",
+    "name": "Call Rate",
+    "operatorId": "670b4ad739b86b785e9e40ff",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4ecc39b86b785e9e455b",
+    "name": "Bundle",
+    "operatorId": "670b4ad739b86b785e9e40ff",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4f8a39b86b785e9e469e",
+    "name": "SMS",
+    "operatorId": "670b4ad739b86b785e9e40ff",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b555f191568b0d0f1ac91",
+    "name": "Internet",
+    "operatorId": "670b526439b86b785e9e4a40",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67109aca5d5144cc73721d93",
+    "name": "Internet",
+    "operatorId": "67109a205d5144cc73721d1f",
+    "active": true,
+    "__v": 0
+  }
+]

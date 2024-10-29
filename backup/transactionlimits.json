@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "670f50ed6ae5b1a3d8a2454d",
+    "periodType": 2,
+    "limit": {
+      "limitType": "Amount",
+      "value": 10000
+    },
+    "reference": "670b4ebd39b86b785e9e4546",
+    "validFrom": "2024-09-30T18:00:00.000Z",
+    "validTo": "2024-10-30T18:00:00.000Z",
+    "transactionType": "Both",
+    "individual": false,
+    "active": false,
+    "__v": 0,
+    "created_date": "2024-10-16T05:36:45.489Z",
+    "createdby_id": 6,
+    "lastmodified_date": "2024-10-17T06:31:47.432Z",
+    "lastmodifiedby_id": 17
+  }
+]

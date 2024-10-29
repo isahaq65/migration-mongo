@@ -1,0 +1,282 @@
+[
+  {
+    "_id": "671f71e0d76ca5baedb82bb9",
+    "name": "AB Bank PLC",
+    "swiftCode": "ABBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bba",
+    "name": "Agrani Bank PLC",
+    "swiftCode": "AGBKBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bbb",
+    "name": "Al-Arafah Islami Bank PLC",
+    "swiftCode": "ALARBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bbc",
+    "name": "Bangladesh Commerce Bank Limited",
+    "swiftCode": "BCBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bbd",
+    "name": "Bangladesh Development Bank Limited",
+    "swiftCode": "BDDBBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bbe",
+    "name": "Bangladesh Krishi Bank",
+    "swiftCode": "BKBABDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bbf",
+    "name": "Bangladesh Small Industries and Commerce Bank Limited",
+    "swiftCode": "BKSIBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bc0",
+    "name": "Bank Alfalah Limited",
+    "swiftCode": "ALFHBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bc1",
+    "name": "Bank Asia Limited",
+    "swiftCode": "BALBBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bc2",
+    "name": "BRAC Bank PLC",
+    "swiftCode": "BRAKBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bc3",
+    "name": "Citibank N.A",
+    "swiftCode": "CITIBDDX"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bc4",
+    "name": "Commercial Bank of Ceylon Limited",
+    "swiftCode": "CCEYBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bc5",
+    "name": "Community Bank Bangladesh PLC",
+    "swiftCode": "COYMBDDD"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bc6",
+    "name": "Dhaka Bank PLC",
+    "swiftCode": "DHBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bc7",
+    "name": "Dutch-Bangla Bank PLC",
+    "swiftCode": "DBBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bc8",
+    "name": "Eastern Bank PLC",
+    "swiftCode": "EBLDBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bc9",
+    "name": "Export Import Bank of Bangladesh Limited",
+    "swiftCode": "EXBKBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bca",
+    "name": "First Security Islami Bank PLC",
+    "swiftCode": "FSEBBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bcb",
+    "name": "Global Islami Bank PLC",
+    "swiftCode": "NGBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bcc",
+    "name": "Habib Bank Limited",
+    "swiftCode": "HABBBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bcd",
+    "name": "ICB Islamic Bank Limited",
+    "swiftCode": "BBSHBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bce",
+    "name": "International Finance Investment and Commerce Bank PLC",
+    "swiftCode": "IFICBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bcf",
+    "name": "Islami Bank Bangladesh PLC",
+    "swiftCode": "IBBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bd0",
+    "name": "Jamuna Bank Limited",
+    "swiftCode": "JAMUBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bd1",
+    "name": "Janata Bank PLC",
+    "swiftCode": "JANBBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bd2",
+    "name": "Meghna Bank PLC",
+    "swiftCode": "MGBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bd3",
+    "name": "Mercantile Bank PLC",
+    "swiftCode": "MBLBBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bd4",
+    "name": "Midland Bank Limited",
+    "swiftCode": "MDBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bd5",
+    "name": "Modhumoti Bank PLC",
+    "swiftCode": "MODHBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bd6",
+    "name": "Mutual Trust Bank PLC",
+    "swiftCode": "MTBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bd7",
+    "name": "National Bank Limited",
+    "swiftCode": "NBLBBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bd8",
+    "name": "National Bank of Pakistan",
+    "swiftCode": "NBPABDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bd9",
+    "name": "National Credit & Commerce Bank PLC",
+    "swiftCode": "NCCLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bda",
+    "name": "NRB Bank Limited",
+    "swiftCode": "NRBDBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bdb",
+    "name": "NRBC Bank PLC",
+    "swiftCode": "NRBBBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bdc",
+    "name": "One Bank PLC",
+    "swiftCode": "ONEBBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bdd",
+    "name": "Padma Bank PLC",
+    "swiftCode": "FRMSBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bde",
+    "name": "Prime Bank PLC",
+    "swiftCode": "PRBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bdf",
+    "name": "Pubali Bank PLC",
+    "swiftCode": "PUBABDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82be0",
+    "name": "Rupali Bank PLC",
+    "swiftCode": "RUPBBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82be1",
+    "name": "Shahjalal Islami Bank PLC",
+    "swiftCode": "SJBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82be2",
+    "name": "Social Islami Bank PLC",
+    "swiftCode": "SOIVBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82be3",
+    "name": "Sonali Bank PLC",
+    "swiftCode": "BSONBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82be4",
+    "name": "South Bangla Agriculture & Commerce Bank PLC",
+    "swiftCode": "SBACBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82be5",
+    "name": "Southeast Bank PLC",
+    "swiftCode": "SEBDBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82be6",
+    "name": "Standard Bank PLC",
+    "swiftCode": "SDBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82be7",
+    "name": "Standard Chartered Bank",
+    "swiftCode": "SCBLBDDX"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82be8",
+    "name": "State Bank of India",
+    "swiftCode": "SBINBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82be9",
+    "name": "The City Bank PLC",
+    "swiftCode": "CIBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bea",
+    "name": "The Hongkong and Shanghai Banking Corporation Limited",
+    "swiftCode": "HSBCBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82beb",
+    "name": "The Premier Bank PLC",
+    "swiftCode": "PRMRBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bec",
+    "name": "Trust Bank Limited",
+    "swiftCode": "TTBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bed",
+    "name": "Union Bank PLC",
+    "swiftCode": "UBLDBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bee",
+    "name": "United Commercial Bank PLC",
+    "swiftCode": "UCBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bef",
+    "name": "Uttara Bank PLC",
+    "swiftCode": "UTBLBDDH"
+  },
+  {
+    "_id": "671f71e0d76ca5baedb82bf0",
+    "name": "Woori Bank Bangladesh",
+    "swiftCode": "HVBKBDDH"
+  }
+]

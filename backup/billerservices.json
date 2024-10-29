@@ -1,0 +1,78 @@
+[
+  {
+    "_id": "65fc0a328927a87eac921694",
+    "name": "Gas",
+    "serviceId": 3,
+    "params": [
+      {
+        "key": "gas",
+        "value": "Gas",
+        "_id": "66f90fe9bf2be996fb2bce7d"
+      }
+    ]
+  },
+  {
+    "_id": "65fc0a328927a87eac9216b3",
+    "name": "Electricity",
+    "serviceId": 5,
+    "params": [
+      {
+        "key": "electricity",
+        "value": "Electricity",
+        "_id": "66fdd517cbdbd7dd7a0e24f3"
+      }
+    ]
+  },
+  {
+    "_id": "65fc0a328927a87eac9216d8",
+    "name": "Eservice",
+    "serviceId": 13,
+    "params": [
+      {
+        "key": "emutation",
+        "value": "emutation",
+        "_id": "670b520c39b86b785e9e499b"
+      },
+      {
+        "key": "land tax",
+        "value": "land tax",
+        "_id": "670b520c39b86b785e9e499c"
+      },
+      {
+        "key": "nsda",
+        "value": "nsda",
+        "_id": "670b520c39b86b785e9e499d"
+      },
+      {
+        "key": "eporcha",
+        "value": "eporcha",
+        "_id": "670b520c39b86b785e9e499e"
+      }
+    ],
+    "__v": 2
+  },
+  {
+    "_id": "65fc0a328927a87eac9216aa",
+    "name": "Water",
+    "serviceId": 4,
+    "params": [
+      {
+        "key": "value",
+        "value": "value",
+        "_id": "664dd938e95e40f89ae3b0d8"
+      }
+    ]
+  },
+  {
+    "_id": "65fc0a328927a87eac9216a1",
+    "name": "Internet",
+    "serviceId": 10,
+    "params": [
+      {
+        "key": "internet",
+        "value": "Internet",
+        "_id": "670386d3c88c1bcafb44156c"
+      }
+    ]
+  }
+]

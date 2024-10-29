@@ -1,0 +1,99 @@
+[
+  {
+    "_id": "670b5835191568b0d0f1b10b",
+    "accountHolderName": "Mr. Montu",
+    "mobileNumber": "01886933325",
+    "user": "670b55e6191568b0d0f1ad37",
+    "mfs": "670b4aa939b86b785e9e40e5",
+    "creationDate": "2024-10-13T05:18:45.530Z",
+    "__v": 0
+  },
+  {
+    "_id": "670e2c356ae5b1a3d8a2225d",
+    "accountHolderName": "Ishaq",
+    "nickName": "Ali",
+    "mobileNumber": "01874042219",
+    "user": "670b5d02191568b0d0f1b4d1",
+    "mfs": "670b4aa939b86b785e9e40e5",
+    "creationDate": "2024-10-15T08:47:49.548Z",
+    "__v": 0
+  },
+  {
+    "_id": "67173b35595319fe750ad4a9",
+    "accountHolderName": "Nour Hasan",
+    "nickName": "Bappy",
+    "mobileNumber": "01781052567",
+    "user": "670f6e68134d51df96a95f32",
+    "mfs": "670b4aa939b86b785e9e40e5",
+    "creationDate": "2024-10-22T05:42:13.954Z",
+    "__v": 0
+  },
+  {
+    "_id": "6718cb5efa0219a871a135bd",
+    "accountHolderName": "qwer",
+    "nickName": "asdf",
+    "mobileNumber": "01912674536",
+    "user": "670b494239b86b785e9e3fad",
+    "mfs": "670b4aa939b86b785e9e40e5",
+    "creationDate": "2024-10-23T10:09:34.379Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a09447bc807fb616e6948",
+    "accountHolderName": "shafin",
+    "nickName": "shafin gp",
+    "mobileNumber": "01781052567",
+    "user": "670f6e68134d51df96a95f32",
+    "mfs": "670b4ae739b86b785e9e4116",
+    "creationDate": "2024-10-24T08:45:56.516Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a0aa37bc807fb616e6d72",
+    "accountHolderName": "darul",
+    "nickName": "daru----n ",
+    "mobileNumber": "01852365896",
+    "user": "670f6e68134d51df96a95f32",
+    "mfs": "670b4ac539b86b785e9e40fa",
+    "creationDate": "2024-10-24T08:51:47.493Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a0c947bc807fb616e75de",
+    "accountHolderName": "dhhdiei",
+    "nickName": "hdhd",
+    "mobileNumber": "01712166160",
+    "user": "670f6e68134d51df96a95f32",
+    "mfs": "670b4aa939b86b785e9e40e5",
+    "creationDate": "2024-10-24T09:00:04.309Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a29044ee7c12c84d2334a",
+    "accountHolderName": "sbc",
+    "mobileNumber": "01778299616",
+    "user": "6718a01cfa0219a871a0cf6f",
+    "mfs": "670b4aa939b86b785e9e40e5",
+    "creationDate": "2024-10-24T11:01:24.806Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a297b4ee7c12c84d233ca",
+    "accountHolderName": "monthy",
+    "mobileNumber": "01716401696",
+    "user": "6718a01cfa0219a871a0cf6f",
+    "mfs": "670b4aa939b86b785e9e40e5",
+    "creationDate": "2024-10-24T11:03:23.301Z",
+    "__v": 0
+  },
+  {
+    "_id": "671f501652305151265476b7",
+    "accountHolderName": "Holder",
+    "nickName": "Nickie",
+    "mobileNumber": "01728876562",
+    "user": "670defb96ae5b1a3d8a20159",
+    "mfs": "670b4aa939b86b785e9e40e5",
+    "creationDate": "2024-10-28T08:49:26.022Z",
+    "__v": 0
+  }
+]

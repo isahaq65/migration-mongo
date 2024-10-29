@@ -1,0 +1,78 @@
+[
+  {
+    "_id": "670b4c6c39b86b785e9e427d",
+    "title": "Account opening",
+    "isRoot": true,
+    "isLeaf": false,
+    "complaintType": "66f0f77ccf7a264a8ea26c1d",
+    "__v": 0,
+    "created_date": "2024-10-13T04:28:28.888Z",
+    "createdby_id": 6,
+    "lastmodified_date": "2024-10-13T04:29:45.208Z",
+    "lastmodifiedby_id": 6
+  },
+  {
+    "_id": "670b4d3939b86b785e9e4344",
+    "title": "CASA Opening",
+    "isRoot": false,
+    "isLeaf": true,
+    "complaintType": "66f251cb112462ec6eeadbd9",
+    "questions": [
+      {
+        "title": "How can I check the status of my transfer?",
+        "description": "Depending on how much you send and what currency you send to, we may need to do some extra verification. If we do, we’ll send you an email letting you know what information we need. So, keep an eye on your emails whenever you set up a transfer.",
+        "sequence": 1,
+        "_id": "670b4d3939b86b785e9e4345"
+      },
+      {
+        "title": "Why Was My Transfer Cancelled?",
+        "description": "If your account balance is lower than the transfer amount, the transaction may be declined.",
+        "sequence": 2,
+        "_id": "670b4d3939b86b785e9e4346"
+      }
+    ],
+    "parent": "670b4c6c39b86b785e9e427d",
+    "__v": 0,
+    "created_date": "2024-10-13T04:31:53.556Z",
+    "createdby_id": 6
+  },
+  {
+    "_id": "670b4dfe39b86b785e9e4431",
+    "title": "Fund Transfer",
+    "isRoot": true,
+    "isLeaf": false,
+    "complaintType": "66f0f77ccf7a264a8ea26c20",
+    "__v": 0,
+    "created_date": "2024-10-13T04:35:10.193Z",
+    "createdby_id": 6,
+    "lastmodified_date": "2024-10-17T05:20:37.396Z",
+    "lastmodifiedby_id": 17
+  },
+  {
+    "_id": "670b4e5039b86b785e9e4491",
+    "title": "Payment",
+    "isRoot": false,
+    "isLeaf": true,
+    "complaintType": "66f26243e522c063153f68d6",
+    "questions": [
+      {
+        "title": "How long does a fund transfer take?",
+        "description": "The time it takes for a fund transfer to be completed depends on the method used. Domestic transfers typically take a few hours to one business day, while international transfers may take 1-5 business days.",
+        "sequence": 1,
+        "_id": "670b57a3191568b0d0f1aeb3"
+      },
+      {
+        "title": "What information do I need to initiate a transfer?",
+        "description": "To initiate a fund transfer, you generally need the recipient’s name, account number, bank details (including the bank’s routing number), and any specific payment references required.",
+        "sequence": 2,
+        "_id": "670b57a3191568b0d0f1aeb4"
+      }
+    ],
+    "parent": "670b4dfe39b86b785e9e4431",
+    "__v": 1,
+    "created_date": "2024-10-13T04:36:32.425Z",
+    "createdby_id": 6,
+    "lastmodified_date": "2024-10-13T05:16:19.418Z",
+    "lastmodifiedby_id": 6
+  }
+]

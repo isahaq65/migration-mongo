@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "670b4bfe39b86b785e9e420b",
+    "name": "ইন্টারনেট",
+    "operatorTabId": "670b4b8439b86b785e9e4196",
+    "__v": 0
+  },
+  {
+    "_id": "670b4d2d39b86b785e9e433b",
+    "name": "মিনিট",
+    "operatorTabId": "670b4d1639b86b785e9e4328",
+    "__v": 0
+  },
+  {
+    "_id": "670b4dde39b86b785e9e4417",
+    "name": "কল রেট",
+    "operatorTabId": "670b4dbf39b86b785e9e4405",
+    "__v": 0
+  },
+  {
+    "_id": "670b4efe39b86b785e9e45af",
+    "name": "বান্ডেল",
+    "operatorTabId": "670b4ecc39b86b785e9e455b",
+    "__v": 0
+  },
+  {
+    "_id": "670b4fa639b86b785e9e46b7",
+    "name": "এসএমএস",
+    "operatorTabId": "670b4f8a39b86b785e9e469e",
+    "__v": 0
+  },
+  {
+    "_id": "670b556a191568b0d0f1ac9f",
+    "name": "ইন্টারনেট",
+    "operatorTabId": "670b555f191568b0d0f1ac91",
+    "__v": 0
+  }
+]

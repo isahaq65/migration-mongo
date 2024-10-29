@@ -1,0 +1,883 @@
+[
+  {
+    "_id": "670b4f7139b86b785e9e467d",
+    "phoneNumber": "01912743628",
+    "deviceIds": [
+      "fc1FF3kV5kjbttPwS32v4_:APA91bFAU8FvsIUgXf9KJOlOisavWET05NxU84TLCb4DSFHquGLpraErigHWkb5qsE10QAl3o_GOL9VaM8jRJO2opcvXe183kRx2BD4_Nlgd_-npGB3BsjcmnniUuADxoVVWmWMiuzfn"
+    ],
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "670b4f7e39b86b785e9e468d",
+    "phoneNumber": "01612743620",
+    "deviceIds": [
+      "fc1FF3kV5kjbttPwS32v4_:APA91bFAU8FvsIUgXf9KJOlOisavWET05NxU84TLCb4DSFHquGLpraErigHWkb5qsE10QAl3o_GOL9VaM8jRJO2opcvXe183kRx2BD4_Nlgd_-npGB3BsjcmnniUuADxoVVWmWMiuzfn"
+    ],
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "670b55e6191568b0d0f1ad37",
+    "phoneNumber": "01886933325",
+    "deviceIds": [
+      "fEEaJkH3ToKG8aqlm0eb3M:APA91bHTBZrMXXUHz4uWHW-_NcuI1u6JZe98iK6sW59ABtFqFcQhoYPdyD7PXBc0u4o_pXeaxnvppa0HeL56JCzPdeWtAJzdrsjd0C-oJceZTyJdxlnJCuqSU19qEy-FPfNZlW95xbyC",
+      "cE35AcXmSIWd7xTDxpCnqW:APA91bE2JFKPHGYpCTdpWxdFJmF6OBWQ2KWAFrqhfnrSO-OGDaq8WM97s-5PNZKVLKifefRBRBXaoJ2er9_sHCBWFsrlvCP5hr3JbV5gVa6G-YnyKegu0wurXqecb7sb9lrarhPVTpP2",
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT"
+    ],
+    "name": "JUNAED HOSSAIN",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 2,
+    "preferredLanguage": "en",
+    "clientId": 2,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "2001-06-28T18:00:00.000Z",
+    "nidNumber": "9163573414",
+    "pinCodeHash": "$2a$10$H8U0vgwCVISgwsJ0meP4pOsCsdao2JTKrz6NOjOyw1C1tcGGqD.32",
+    "gender": "Male",
+    "permanentAddress": "192 Khilgaon, Dhaka",
+    "presentAddress": "192 Khilgaon, Dhaka",
+    "email": "nolukolu@gmail.com",
+    "lastLogin": "2024-10-26T07:08:12.961Z",
+    "documentStatus": {
+      "nidBack": false,
+      "nidFront": false,
+      "pic": false,
+      "signature": false
+    }
+  },
+  {
+    "_id": "670be10c191568b0d0f1c048",
+    "phoneNumber": "01983376763",
+    "deviceIds": [
+      "fAh1nztceEobkjHpvY_Efn:APA91bFQB1yHFCuVVVpcnw5HloQ1_zhtewIKKeP_u7U6x_IrRPrKpBq6Dubf4QBd0B4lZQfNjGRLBfgmaQt0uP3ww2KMfVuoAQd7aVx8aHHG3RYvjqer0nf9S_jRY59IB24xUKUGR_Em",
+      "fc1FF3kV5kjbttPwS32v4_:APA91bFAU8FvsIUgXf9KJOlOisavWET05NxU84TLCb4DSFHquGLpraErigHWkb5qsE10QAl3o_GOL9VaM8jRJO2opcvXe183kRx2BD4_Nlgd_-npGB3BsjcmnniUuADxoVVWmWMiuzfn"
+    ],
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 1,
+    "preferredLanguage": "en",
+    "clientId": 8,
+    "stage": 1,
+    "type": "adult"
+  },
+  {
+    "_id": "670ca0b56ae5b1a3d8a1d87a",
+    "phoneNumber": "01309938345",
+    "deviceIds": [
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT"
+    ],
+    "name": "MD. ISAHAQ ALI",
+    "skippedEkycStages": [
+      "670b47ac39b86b785e9e3e5d",
+      "670b489339b86b785e9e3f18",
+      "670b491439b86b785e9e3f7b",
+      "670b498139b86b785e9e3fd8",
+      "670b49e139b86b785e9e402b",
+      "670b4a4e39b86b785e9e4079"
+    ],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 9,
+    "preferredLanguage": "bn",
+    "clientId": 7,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "1998-10-15T18:00:00.000Z",
+    "nidNumber": "1504383868",
+    "pinCodeHash": "$2a$10$5WqdHopzURZ11m2f2bTlYO6pD4jStXH9dqpkpjcES8xFVoZrRlcBO",
+    "gender": "Male",
+    "permanentAddress": "Keraniganj, Dhaka",
+    "presentAddress": "Keraniganj, Dhaka",
+    "email": "bobmarley@gmail.com",
+    "lastLogin": "2024-10-21T11:47:42.202Z"
+  },
+  {
+    "_id": "670d025c6ae5b1a3d8a1fee0",
+    "phoneNumber": "01712166160",
+    "deviceIds": [
+      "c3VFOBu5MUNClUz44nPnSf:APA91bF2UGdlPO4vapGRKswfxAJzCUV0GnkxnUeza6aZChQBKAP-rct7mLzd9H81Z8uGOllzMfxijnadHG0HmxYRYYc6XM_zQVm8DQ4jvMoY5Evx-LB9byuLMYbxbI8wJs29MGicEqg1"
+    ],
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "670defb96ae5b1a3d8a20159",
+    "phoneNumber": "01753560951",
+    "deviceIds": [
+      "fc1FF3kV5kjbttPwS32v4_:APA91bFAU8FvsIUgXf9KJOlOisavWET05NxU84TLCb4DSFHquGLpraErigHWkb5qsE10QAl3o_GOL9VaM8jRJO2opcvXe183kRx2BD4_Nlgd_-npGB3BsjcmnniUuADxoVVWmWMiuzfn",
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT",
+      "c3VFOBu5MUNClUz44nPnSf:APA91bF2UGdlPO4vapGRKswfxAJzCUV0GnkxnUeza6aZChQBKAP-rct7mLzd9H81Z8uGOllzMfxijnadHG0HmxYRYYc6XM_zQVm8DQ4jvMoY5Evx-LB9byuLMYbxbI8wJs29MGicEqg1",
+      "cfqbqWv0Twyd1RDaX1aZqX:APA91bHiYtuto5UPPkFV0eQ7CSt0h8BFaldMmhFIyf8NNv3n9zXHE9ohifNMXRw_xgBOIw2JT5aJQMHucM8c_K2gDRSJOVx6KPrvF5GzCKP03xpjL4AxRzmu5CB_NZt6rqAFovUluubi",
+      "cfqbqWv0Twyd1RDaX1aZqX:APA91bH6nLBJnhuB83wgB7u0R6vylvkaTSWnt9dYgOFN1V_1A9NerfdUIIBYft9WiKUypmtw4DuMVrw9BwIuj0T43gISuaMyivSN7teVyGulwnUuKzCRBnw"
+    ],
+    "name": "JUNAED HOSSAIN",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [
+      {
+        "stage": "670b4a4e39b86b785e9e4079",
+        "value": "> 50,000 Tk",
+        "document": false,
+        "_id": "671f4c935230515126546b28"
+      },
+      {
+        "stage": "6718b899fa0219a871a0e927",
+        "document": true,
+        "_id": "671f4cee5230515126546e1b"
+      },
+      {
+        "stage": "67188516595319fe750b1d81",
+        "value": [
+          "Durjoy Hossain"
+        ],
+        "document": false,
+        "_id": "671f4d395230515126547039"
+      },
+      {
+        "stage": "671f6a6a5230515126548ed2",
+        "value": [
+          "Value1"
+        ],
+        "document": false,
+        "_id": "671f6c5d523051512654980d"
+      }
+    ],
+    "__v": 71,
+    "preferredLanguage": "en",
+    "clientId": 11,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "2001-06-28T18:00:00.000Z",
+    "nidNumber": "9163573414",
+    "pinCodeHash": "$2a$10$EZMBrDO7LriBOcEe5YMgUuzR8RSVGgO6yxBOeigbLXuo5mCemsdue",
+    "lastLogin": "2024-10-28T11:45:07.859Z",
+    "documentStatus": {
+      "nidBack": false,
+      "nidFront": false,
+      "pic": false,
+      "signature": true
+    },
+    "gender": "Male",
+    "permanentAddress": "Mohakhali, Dhaka",
+    "presentAddress": "Mohakhali, Dhaka",
+    "email": "junaed@gmail.com"
+  },
+  {
+    "_id": "670e049d6ae5b1a3d8a20909",
+    "phoneNumber": "01953153985",
+    "deviceIds": [
+      "cfqbqWv0Twyd1RDaX1aZqX:APA91bHiYtuto5UPPkFV0eQ7CSt0h8BFaldMmhFIyf8NNv3n9zXHE9ohifNMXRw_xgBOIw2JT5aJQMHucM8c_K2gDRSJOVx6KPrvF5GzCKP03xpjL4AxRzmu5CB_NZt6rqAFovUluubi",
+      "fc1FF3kV5kjbttPwS32v4_:APA91bFAU8FvsIUgXf9KJOlOisavWET05NxU84TLCb4DSFHquGLpraErigHWkb5qsE10QAl3o_GOL9VaM8jRJO2opcvXe183kRx2BD4_Nlgd_-npGB3BsjcmnniUuADxoVVWmWMiuzfn",
+      "cfqbqWv0Twyd1RDaX1aZqX:APA91bHeSYIj2IBg5ddNiGZleQne8rwFm4RQpKcE0jHDd3VPKrTkyfjOV817rrfUDCoOwOvcspMhjteJuHyB-VOWwDr1N3OpIo7GD5MFZjFVi6n2us450jNmDrcf4XdEauD9t3Z8H0JO",
+      "d3_-c-qmpk3xrP3bmLAsZg:APA91bEla6P8YW4jgJ1W14XBIGUkxhLbPvNfK2hMIHm7_qMVi_v69Nm6fHwM0CG1NmZGxmaQ4exBxlK7GH33KftDzBmRiFJDBolYFt0VobwFHXaTCTOqdnx5Nbr8TR76y0x6YIzfpk_w",
+      "c-iDIVHdQiKtQH0e7NBUbm:APA91bHg8XY555g7umBNlXlTWjj8TUgLtt1GLGm_tybC5xcEUbhA_FwUzBv_QHDQCUwYUJFNRvlqmDsaKx6YCLsPmcIRM2Snjx3lX46DH_hTK7qyT6PxvTDmvDJZPXvAZoYyYwIwYwgh",
+      "cfqbqWv0Twyd1RDaX1aZqX:APA91bH6nLBJnhuB83wgB7u0R6vylvkaTSWnt9dYgOFN1V_1A9NerfdUIIBYft9WiKUypmtw4DuMVrw9BwIuj0T43gISuaMyivSN7teVyGulwnUuKzCRBnw"
+    ],
+    "name": "RIAJ HOSEN",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 5,
+    "preferredLanguage": "en",
+    "clientId": 12,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "1997-12-31T18:00:00.000Z",
+    "nidNumber": "8671254426",
+    "pinCodeHash": "$2a$10$l.A9dtSiuOSeQgXw35AJC.zBzNLaADomcvenIPtuUxjxMcoIQe9GO",
+    "gender": "Male",
+    "permanentAddress": "Keraniganj, Dhaka",
+    "presentAddress": "Keraniganj, Dhaka",
+    "lastLogin": "2024-10-28T12:24:25.469Z",
+    "signatureUrl": "http://192.168.10.38:8614/get-file/671685a1c810b8c58771ff91",
+    "documentStatus": {
+      "nidBack": false,
+      "nidFront": false,
+      "pic": false,
+      "signature": false
+    }
+  },
+  {
+    "_id": "670e04df331d92129bca4647",
+    "phoneNumber": "01936321314",
+    "deviceIds": [
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT"
+    ],
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "670e06f76ae5b1a3d8a20ca5",
+    "phoneNumber": "01878048591",
+    "deviceIds": [
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT",
+      "fc1FF3kV5kjbttPwS32v4_:APA91bFAU8FvsIUgXf9KJOlOisavWET05NxU84TLCb4DSFHquGLpraErigHWkb5qsE10QAl3o_GOL9VaM8jRJO2opcvXe183kRx2BD4_Nlgd_-npGB3BsjcmnniUuADxoVVWmWMiuzfn",
+      "cfqbqWv0Twyd1RDaX1aZqX:APA91bHiYtuto5UPPkFV0eQ7CSt0h8BFaldMmhFIyf8NNv3n9zXHE9ohifNMXRw_xgBOIw2JT5aJQMHucM8c_K2gDRSJOVx6KPrvF5GzCKP03xpjL4AxRzmu5CB_NZt6rqAFovUluubi",
+      "c-iDIVHdQiKtQH0e7NBUbm:APA91bHg8XY555g7umBNlXlTWjj8TUgLtt1GLGm_tybC5xcEUbhA_FwUzBv_QHDQCUwYUJFNRvlqmDsaKx6YCLsPmcIRM2Snjx3lX46DH_hTK7qyT6PxvTDmvDJZPXvAZoYyYwIwYwgh"
+    ],
+    "name": "JUNAED HOSSAIN",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [
+      {
+        "stage": "670b47ac39b86b785e9e3e5d",
+        "value": "Office job",
+        "document": false,
+        "_id": "671dc6ef7bc807fb616eda7c"
+      },
+      {
+        "stage": "670b498139b86b785e9e3fd8",
+        "value": "6 months - 1 year",
+        "document": false,
+        "_id": "671dc6f77bc807fb616edaa6"
+      }
+    ],
+    "__v": 17,
+    "preferredLanguage": "en",
+    "clientId": 14,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "2001-06-28T18:00:00.000Z",
+    "nidNumber": "9163573414",
+    "pinCodeHash": "$2a$10$JWXnWk/newNszYaXIfTcFeOWgcvS5hFt7XfP4g49fdDTmYuWGVzci",
+    "lastLogin": "2024-10-28T11:00:17.266Z",
+    "gender": "Female",
+    "permanentAddress": "Rajshahi",
+    "presentAddress": "Dhaka",
+    "documentStatus": {
+      "nidBack": false,
+      "nidFront": false,
+      "pic": false,
+      "signature": false
+    }
+  },
+  {
+    "_id": "670e0de06ae5b1a3d8a214a0",
+    "phoneNumber": "01985951969",
+    "deviceIds": [
+      "e3WSpBmeSNyiV0olFF3Gcy:APA91bFEYTKQ9EotoM5r5469zMF-eeROx1GHyLeERk2nl4PDBOgXJeW0VljPMOsE5iUz0y1wHFbG7QTZmO9WIMLLWGcVK0BAFIz9K0jvQkhSG2I7ETGQNaSMiacVpTjNBtlVIk5lM18Z",
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT",
+      "fr3FA6e1RnWC5uk1-OLo7F:APA91bGDckb3wcBWpfaQDVwNiPGVGzYcIInb9tv5MJG6Q6dCSrFC_ZkLcKcFm3-uaImEcJsDkD-NwwedoSf6e05Glh2BM3n1eYWolRK9ft-9IsMOyaVH2kJujpozWHnZZBilBTKxYoEh",
+      "f0GW6T3KTIO2SUoiLWXePg:APA91bF2n8Tit30WK2WguUaI7w7NeKv100J0FqkSACMHTW4JqdsKSrAl5tyMvs-8fgUT-zU7v0uL6cKXnBCO4V5BAPVckKoXiITisPgdkl18ofWemhJGMD_P5l3uZfRu59t79Qu8p5xG",
+      "fH7Vm7MtQiqbj6Ixo79WNb:APA91bET1kdwtxw1ooR9MzO1ojC20fA9TGuO_EQb2eWy4_ZKUWTO-mAL26nF6BtOTG-d353Wg8T26XVMcDzaF6wdqfBa_aqOjW8SlDRFL0WoCYCCABhmBuOEg-E8EwQxAoLJwcZMTG7F",
+      "fEEaJkH3ToKG8aqlm0eb3M:APA91bHTBZrMXXUHz4uWHW-_NcuI1u6JZe98iK6sW59ABtFqFcQhoYPdyD7PXBc0u4o_pXeaxnvppa0HeL56JCzPdeWtAJzdrsjd0C-oJceZTyJdxlnJCuqSU19qEy-FPfNZlW95xbyC",
+      "cfqbqWv0Twyd1RDaX1aZqX:APA91bHeSYIj2IBg5ddNiGZleQne8rwFm4RQpKcE0jHDd3VPKrTkyfjOV817rrfUDCoOwOvcspMhjteJuHyB-VOWwDr1N3OpIo7GD5MFZjFVi6n2us450jNmDrcf4XdEauD9t3Z8H0JO",
+      "c-iDIVHdQiKtQH0e7NBUbm:APA91bHg8XY555g7umBNlXlTWjj8TUgLtt1GLGm_tybC5xcEUbhA_FwUzBv_QHDQCUwYUJFNRvlqmDsaKx6YCLsPmcIRM2Snjx3lX46DH_hTK7qyT6PxvTDmvDJZPXvAZoYyYwIwYwgh",
+      "dmmeE_-QTO61Itk9LPupnn:APA91bFXzacCiP6hpG9tmR0B65pyLkKiKOnjDHRif1iWCh2CcLSacJdPfA5kndxHEJrqO_CyaNBaERvpeJbncjL3nj-Z2xknO5Lb1N4k_7QmRNum87PzNFLz0MhZZiceJZIswh4AlIe_",
+      "cktoT0okRC63p15CSlaodH:APA91bFyf9X4LjT4GEv3HO_qWp0vHPoPX5KlYn-NGNlmHK3MLcwHNv0V0kfDrr6aSWHD0aWdeufO9N_5FXWHGRbImTwzw4B0YLVXKOnOynSbgbbYbvUvokas-uYj2Ga7VpB885rTfhBY"
+    ],
+    "name": "IBTID RAHMAN",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 12,
+    "preferredLanguage": "en",
+    "clientId": 13,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "2000-09-26T18:00:00.000Z",
+    "nidNumber": "1973607896",
+    "pinCodeHash": "$2a$10$o7/8rNcI9rrwLi1XttzlS.smVjRKyfmApu4sMGmtdvZv5qW9Zwby6",
+    "gender": "Male",
+    "permanentAddress": "Uttara ",
+    "presentAddress": "Uttara ",
+    "lastLogin": "2024-10-27T10:55:38.779Z",
+    "documentStatus": {
+      "nidBack": false,
+      "nidFront": false,
+      "pic": false,
+      "signature": false
+    }
+  },
+  {
+    "_id": "670e0f456ae5b1a3d8a21724",
+    "phoneNumber": "01878045891",
+    "deviceIds": [
+      "cfqbqWv0Twyd1RDaX1aZqX:APA91bHiYtuto5UPPkFV0eQ7CSt0h8BFaldMmhFIyf8NNv3n9zXHE9ohifNMXRw_xgBOIw2JT5aJQMHucM8c_K2gDRSJOVx6KPrvF5GzCKP03xpjL4AxRzmu5CB_NZt6rqAFovUluubi"
+    ],
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "670e28ff6ae5b1a3d8a220c3",
+    "phoneNumber": "01723157452",
+    "deviceIds": [
+      "e1kbQmRGS8yS7hAPWLqM7F:APA91bENu3jEyAWSZPk5Vqxw0CeDsyWV6tXsmyDOi0Ykj0jmiAAzHCW7eKq_-iQyVVYn0bmvibEw4A4I-BMeHBq-pMKK1If-xOLJ2pYFydY5Ue7jLI1M_ntAwRs42mfkwNldQt4x3c4b"
+    ],
+    "name": "IFFAT FAHMIDA TURNA",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0,
+    "preferredLanguage": "en",
+    "clientId": 16,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "2000-09-01T18:00:00.000Z",
+    "nidNumber": "5565535621",
+    "pinCodeHash": "$2a$10$KD90x5CFLT/zZE82fYWJr.ZEad/3igAZH6.mMASQZsAHeiCjU8u06",
+    "gender": "Female",
+    "permanentAddress": "Dhaka",
+    "presentAddress": "Dhaka"
+  },
+  {
+    "_id": "670f53256ae5b1a3d8a24584",
+    "phoneNumber": "01397878689",
+    "deviceIds": [
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT"
+    ],
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "670f537a6ae5b1a3d8a24599",
+    "phoneNumber": "01300000000",
+    "deviceIds": [
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT"
+    ],
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "670f6e68134d51df96a95f32",
+    "phoneNumber": "01781052567",
+    "deviceIds": [
+      "eI2LvdHrRiuOrEKy7mUk33:APA91bHehibOK7luGwGaKyh98RSS-YbU9ANHXPqzItwUrSdWaKomzG0fPXQRuKnJqJoWX-ItWyE-5tuZXEbW23rJNpxNUXTgeJlb8IzsJw36z_RW_H8zF0oFjKndukZXBQoEFAkFp8AM",
+      "c3VFOBu5MUNClUz44nPnSf:APA91bF2UGdlPO4vapGRKswfxAJzCUV0GnkxnUeza6aZChQBKAP-rct7mLzd9H81Z8uGOllzMfxijnadHG0HmxYRYYc6XM_zQVm8DQ4jvMoY5Evx-LB9byuLMYbxbI8wJs29MGicEqg1",
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT",
+      "fwRSyCVhSlWbxqw2BELm3W:APA91bG7KboAAwlkx6AfDQX_99lKzGxvy9mJo4Pcfl9ihOHO-p51Y_xZL0_MZhVHqxN4U9X7FrxtHACm2KN4t3g51UqRmB1_fWpp_L9DR-GEp7TcVUTCGmI4_5J7nHRQj2Khw_20DWk2",
+      "dWHz9vhmQbWhl_gHfrWHZO:APA91bFrS4DGSbrZPGQ6e9tiPj2m3ESs8NWIUCG5KnaaMWUmaaWxqIsswejEcz1PVIaP5-If6uxKo_cXz5Ek_S68gu1hAmCgwoZtMG2Wpk4BEDlJYrWHMWdNt3qcFRkJpn2rtjuwzLEl",
+      "cE35AcXmSIWd7xTDxpCnqW:APA91bE2JFKPHGYpCTdpWxdFJmF6OBWQ2KWAFrqhfnrSO-OGDaq8WM97s-5PNZKVLKifefRBRBXaoJ2er9_sHCBWFsrlvCP5hr3JbV5gVa6G-YnyKegu0wurXqecb7sb9lrarhPVTpP2",
+      "cfqbqWv0Twyd1RDaX1aZqX:APA91bHeSYIj2IBg5ddNiGZleQne8rwFm4RQpKcE0jHDd3VPKrTkyfjOV817rrfUDCoOwOvcspMhjteJuHyB-VOWwDr1N3OpIo7GD5MFZjFVi6n2us450jNmDrcf4XdEauD9t3Z8H0JO"
+    ],
+    "name": "IFFAT FAHMIDA TURNA",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [
+      {
+        "stage": "67188516595319fe750b1d81",
+        "value": [
+          "Turna"
+        ],
+        "document": false,
+        "_id": "67189c49fa0219a871a0c59f"
+      },
+      {
+        "stage": "670b47ac39b86b785e9e3e5d",
+        "value": "Unemployed",
+        "document": false,
+        "_id": "67189f12fa0219a871a0ccd7"
+      },
+      {
+        "stage": "670b498139b86b785e9e3fd8",
+        "value": "6 months - 1 year",
+        "document": false,
+        "_id": "6718a708fa0219a871a0daf3"
+      },
+      {
+        "stage": "670b49e139b86b785e9e402b",
+        "value": "Yes, one or two",
+        "document": false,
+        "_id": "6718a70bfa0219a871a0db1e"
+      },
+      {
+        "stage": "670b4a4e39b86b785e9e4079",
+        "value": "5,001 - 10,000 Tk",
+        "document": false,
+        "_id": "6718a70dfa0219a871a0db4d"
+      },
+      {
+        "stage": "670b491439b86b785e9e3f7b",
+        "value": "Rent a home (by yourself, shared with family/friends)",
+        "document": false,
+        "_id": "6718a70ffa0219a871a0db7c"
+      },
+      {
+        "stage": "670b489339b86b785e9e3f18",
+        "value": "Less than 6 months",
+        "document": false,
+        "_id": "671a00cb7bc807fb616e514d"
+      },
+      {
+        "stage": "6718b2eefa0219a871a0e487",
+        "document": true,
+        "_id": "671e107eef60921a055f2fc1"
+      }
+    ],
+    "__v": 86,
+    "preferredLanguage": "en",
+    "clientId": 20,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "2000-09-01T18:00:00.000Z",
+    "nidNumber": "5565535621",
+    "pinCodeHash": "$2a$10$VLlaUaNoqYYdVeVub7qkye18DdvEfnkK3TNrRiAv/TkaEXiW6b2HS",
+    "lastLogin": "2024-10-28T10:38:33.528Z",
+    "gender": "Male",
+    "permanentAddress": "chjvvkh",
+    "presentAddress": "chjvvkh",
+    "documentStatus": {
+      "nidBack": false,
+      "nidFront": false,
+      "pic": false,
+      "signature": true
+    },
+    "email": "nvkbb@gmail.com"
+  },
+  {
+    "_id": "671091f85d5144cc73721909",
+    "phoneNumber": "01454554545",
+    "deviceIds": [
+      "fc1FF3kV5kjbttPwS32v4_:APA91bFAU8FvsIUgXf9KJOlOisavWET05NxU84TLCb4DSFHquGLpraErigHWkb5qsE10QAl3o_GOL9VaM8jRJO2opcvXe183kRx2BD4_Nlgd_-npGB3BsjcmnniUuADxoVVWmWMiuzfn"
+    ],
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "6710f23e5d5144cc737258ca",
+    "phoneNumber": "01918371363",
+    "deviceIds": [
+      "cfqbqWv0Twyd1RDaX1aZqX:APA91bHiYtuto5UPPkFV0eQ7CSt0h8BFaldMmhFIyf8NNv3n9zXHE9ohifNMXRw_xgBOIw2JT5aJQMHucM8c_K2gDRSJOVx6KPrvF5GzCKP03xpjL4AxRzmu5CB_NZt6rqAFovUluubi",
+      "fc1FF3kV5kjbttPwS32v4_:APA91bFAU8FvsIUgXf9KJOlOisavWET05NxU84TLCb4DSFHquGLpraErigHWkb5qsE10QAl3o_GOL9VaM8jRJO2opcvXe183kRx2BD4_Nlgd_-npGB3BsjcmnniUuADxoVVWmWMiuzfn"
+    ],
+    "name": "MAHMUD MOSTOFA",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 1,
+    "preferredLanguage": "en",
+    "clientId": 21,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "1994-10-14T18:00:00.000Z",
+    "nidNumber": "8671254426",
+    "pinCodeHash": "$2a$10$ryWWO2lrSR.93w6kqna1UulIRMFQz1aptrYwrxZQW4r2MlBcjdofe",
+    "lastLogin": "2024-10-17T11:24:36.600Z",
+    "gender": "Male",
+    "permanentAddress": "Khilgaon, Dhaka",
+    "presentAddress": "Mohakhali, Dhaka"
+  },
+  {
+    "_id": "6714beef6e5d1ef2d4278263",
+    "phoneNumber": "01878048509",
+    "deviceIds": [
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT"
+    ],
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "6714c0da6e5d1ef2d4278464",
+    "phoneNumber": "01888888888",
+    "deviceIds": [
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT"
+    ],
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "6718a01cfa0219a871a0cf6f",
+    "phoneNumber": "01806403505",
+    "deviceIds": [
+      "eI2LvdHrRiuOrEKy7mUk33:APA91bHehibOK7luGwGaKyh98RSS-YbU9ANHXPqzItwUrSdWaKomzG0fPXQRuKnJqJoWX-ItWyE-5tuZXEbW23rJNpxNUXTgeJlb8IzsJw36z_RW_H8zF0oFjKndukZXBQoEFAkFp8AM",
+      "cx2AeHivQMWwOIl8qqku4L:APA91bHQ2HcO9lNXnGsNx4ANYz6cg4TMjQYtexvMU-fT8oM9npAjSvW_Io-5hTJAyitSvqYAtUNhiKB4radpBJPnsaZMyflzXf613krD2UBQ6h-WTw5dJQyRoehhv_tjG-IuVbppBjfK",
+      "dbZokZ2UQkOZIlxqsNpvoD:APA91bHNALHBr5vHDHb3fHWE3x7TJwgZH9P72T1ZFSr-PsB8_HyLRiAIKgqXlXfafsAZmy_xDaTXOYzrnWY0cu7yhMPPUTsNV2N5psAvAAoLVxKIwcj_bV5fY9uHTNkwEOiGoGzzHaNi",
+      "cDz5-hD4SwmL0tGygAi_1M:APA91bFsVIljaK0eGCTd9nXPkdq91M9awUrUgbWGBoCjK-j36ya9mxrOQWMBlebGU7rvbfWeaUUq9hrHqg-gl8xqpb-7M4n8n0a7_1q60r7tSmsXsLOmTEowMc_n8sk5QWNlobVgC7y_",
+      "faRev9EARMWNPn3629Vq96:APA91bFfxAOQHJG53KXI9rYeErHXkIt6hOaajo1hBdMSJGwVAzkSyiLxVoEt5AVM7nStd2MP1Cz0eW1dcbNqLwUYlvK818mrCQyKwzNFi1f45V_tNXsJslfw4xoOyLhTaRbAjtcpsemm"
+    ],
+    "documentStatus": {
+      "nidFront": true,
+      "nidBack": true,
+      "signature": true,
+      "pic": true
+    },
+    "name": "MAHMUD MOSTOFA",
+    "skippedEkycStages": [
+      "671f6a6a5230515126548ed2"
+    ],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [
+      {
+        "stage": "670b47ac39b86b785e9e3e5d",
+        "value": "Office job",
+        "document": false,
+        "_id": "6718a11afa0219a871a0d11c"
+      },
+      {
+        "stage": "670b49e139b86b785e9e402b",
+        "value": "Yes, several",
+        "document": false,
+        "_id": "6718a121fa0219a871a0d1c8"
+      },
+      {
+        "stage": "670b498139b86b785e9e3fd8",
+        "value": "Less than 6 months",
+        "document": false,
+        "_id": "6718a7c0fa0219a871a0dc09"
+      },
+      {
+        "stage": "670b4a4e39b86b785e9e4079",
+        "value": "0 - 5,000 Tk",
+        "document": false,
+        "_id": "6718a7c2fa0219a871a0dc36"
+      },
+      {
+        "stage": "670b491439b86b785e9e3f7b",
+        "value": "Own a home (independent house, apartment, shared apartment)",
+        "document": false,
+        "_id": "6718a7c3fa0219a871a0dc63"
+      },
+      {
+        "stage": "670b489339b86b785e9e3f18",
+        "value": "Less than 6 months",
+        "document": false,
+        "_id": "6718a7c5fa0219a871a0dc94"
+      },
+      {
+        "stage": "67188516595319fe750b1d81",
+        "value": [
+          "hocupc"
+        ],
+        "document": false,
+        "_id": "6718a7d0fa0219a871a0dcc3"
+      },
+      {
+        "stage": "6718b899fa0219a871a0e927",
+        "document": true,
+        "_id": "6718c3a2fa0219a871a10fdb"
+      },
+      {
+        "stage": "6718b2eefa0219a871a0e487",
+        "document": true,
+        "_id": "671e11deef60921a055f3394"
+      }
+    ],
+    "__v": 18,
+    "preferredLanguage": "bn",
+    "clientId": 23,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "1994-10-14T18:00:00.000Z",
+    "nidNumber": "8671254426",
+    "pinCodeHash": "$2a$10$0mdL/nlGxPdanpK2D59m9eAv5s1OwlHGrY8G8YVDGM69PRL8aUsBe",
+    "lastLogin": "2024-10-28T11:21:11.671Z",
+    "gender": "Male",
+    "permanentAddress": "tuxuxtu",
+    "presentAddress": "tuxuxtu"
+  },
+  {
+    "_id": "6718aad4fa0219a871a0de6c",
+    "phoneNumber": "01912743535",
+    "deviceIds": [
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT"
+    ],
+    "documentStatus": {
+      "nidFront": false,
+      "nidBack": false,
+      "signature": false,
+      "pic": false
+    },
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "6718c18c3d308a15c2d3e635",
+    "phoneNumber": "01874042219",
+    "deviceIds": [
+      "d3_-c-qmpk3xrP3bmLAsZg:APA91bEla6P8YW4jgJ1W14XBIGUkxhLbPvNfK2hMIHm7_qMVi_v69Nm6fHwM0CG1NmZGxmaQ4exBxlK7GH33KftDzBmRiFJDBolYFt0VobwFHXaTCTOqdnx5Nbr8TR76y0x6YIzfpk_w",
+      "c3VFOBu5MUNClUz44nPnSf:APA91bF2UGdlPO4vapGRKswfxAJzCUV0GnkxnUeza6aZChQBKAP-rct7mLzd9H81Z8uGOllzMfxijnadHG0HmxYRYYc6XM_zQVm8DQ4jvMoY5Evx-LB9byuLMYbxbI8wJs29MGicEqg1",
+      "eUwB41pymkNWhe2epjzb6J:APA91bHozfFT-ecDXoMoSsbuC9glVhDMLaYkwalaIq9VmcoOYcNwx4zBRLaENONrcjC241qL1CXry0Q65hP4HPn-RvCbSaaW4DaC6c3yOUC3Ce_tQ5ZYjI9zoRq1qMkhqRJi5AfHwWDV"
+    ],
+    "documentStatus": {
+      "nidFront": true,
+      "nidBack": true,
+      "signature": true,
+      "pic": true
+    },
+    "name": "MAHMUD MOSTOFA",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [
+      {
+        "stage": "670b498139b86b785e9e3fd8",
+        "value": "6 months - 1 year",
+        "document": false,
+        "_id": "671f4bf25230515126546959"
+      },
+      {
+        "stage": "670b49e139b86b785e9e402b",
+        "value": "Yes, several",
+        "document": false,
+        "_id": "671f4bf45230515126546982"
+      },
+      {
+        "stage": "670b4a4e39b86b785e9e4079",
+        "value": "5,001 - 10,000 Tk",
+        "document": false,
+        "_id": "671f4bf652305151265469af"
+      },
+      {
+        "stage": "670b491439b86b785e9e3f7b",
+        "value": "Own a home (independent house, apartment, shared apartment)",
+        "document": false,
+        "_id": "671f4bf852305151265469dc"
+      }
+    ],
+    "__v": 46,
+    "preferredLanguage": "en",
+    "clientId": 24,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "1994-10-14T18:00:00.000Z",
+    "nidNumber": "8671254426",
+    "pinCodeHash": "$2a$10$Mv7u0nS82CxQRx69Axc8LeGCqKii0USCwjc/TrrBsS4A.pY89k3tC",
+    "gender": "Male",
+    "permanentAddress": "Dhaka",
+    "presentAddress": "Dhaka",
+    "lastLogin": "2024-10-28T11:45:08.680Z"
+  },
+  {
+    "_id": "6718c2ca3d308a15c2d3e676",
+    "phoneNumber": "01735526943",
+    "deviceIds": [
+      "cx2AeHivQMWwOIl8qqku4L:APA91bHQ2HcO9lNXnGsNx4ANYz6cg4TMjQYtexvMU-fT8oM9npAjSvW_Io-5hTJAyitSvqYAtUNhiKB4radpBJPnsaZMyflzXf613krD2UBQ6h-WTw5dJQyRoehhv_tjG-IuVbppBjfK",
+      "cDz5-hD4SwmL0tGygAi_1M:APA91bFsVIljaK0eGCTd9nXPkdq91M9awUrUgbWGBoCjK-j36ya9mxrOQWMBlebGU7rvbfWeaUUq9hrHqg-gl8xqpb-7M4n8n0a7_1q60r7tSmsXsLOmTEowMc_n8sk5QWNlobVgC7y_",
+      "e1kbQmRGS8yS7hAPWLqM7F:APA91bE1IjrlSkAw_cfRXwM8waqi0hEISVaPb1L-LhPmww29wqtYGcUPqpnmuGmyK4f_xpiQRlqIYXubN0IT_LwiLrINpqo1oBS5oZooo_ljDwueXuWhS7A"
+    ],
+    "documentStatus": {
+      "nidFront": true,
+      "nidBack": true,
+      "signature": true,
+      "pic": true
+    },
+    "name": "IFFAT FAHMIDA TURNA",
+    "skippedEkycStages": [
+      "670b47ac39b86b785e9e3e5d",
+      "670b498139b86b785e9e3fd8",
+      "670b49e139b86b785e9e402b",
+      "670b4a4e39b86b785e9e4079",
+      "670b491439b86b785e9e3f7b",
+      "670b489339b86b785e9e3f18",
+      "6718b899fa0219a871a0e927"
+    ],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [
+      {
+        "stage": "6718b2eefa0219a871a0e487",
+        "document": true,
+        "_id": "671f490d5230515126546508"
+      }
+    ],
+    "__v": 10,
+    "preferredLanguage": "en",
+    "clientId": 25,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "2000-09-01T18:00:00.000Z",
+    "nidNumber": "5565535621",
+    "pinCodeHash": "$2a$10$uF1DjF6Q3/PNf2VV2bnJ2ewxoqAu6JGjm33FDHowRZlbFwOufjOga",
+    "gender": "Female",
+    "permanentAddress": "Dhakaa",
+    "presentAddress": "jp",
+    "email": "ncjfcjgj@gmail.com",
+    "lastLogin": "2024-10-28T08:10:01.977Z"
+  },
+  {
+    "_id": "6718c9f86dd833aedfbd0d8d",
+    "phoneNumber": "01521106110",
+    "deviceIds": [
+      "eI2LvdHrRiuOrEKy7mUk33:APA91bHehibOK7luGwGaKyh98RSS-YbU9ANHXPqzItwUrSdWaKomzG0fPXQRuKnJqJoWX-ItWyE-5tuZXEbW23rJNpxNUXTgeJlb8IzsJw36z_RW_H8zF0oFjKndukZXBQoEFAkFp8AM"
+    ],
+    "documentStatus": {
+      "nidFront": false,
+      "nidBack": false,
+      "signature": false,
+      "pic": false
+    },
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0,
+    "preferredLanguage": "en",
+    "clientId": 26,
+    "stage": 1,
+    "type": "adult"
+  },
+  {
+    "_id": "671e022bef60921a055f237b",
+    "phoneNumber": "01805304506",
+    "deviceIds": [
+      "eI2LvdHrRiuOrEKy7mUk33:APA91bHehibOK7luGwGaKyh98RSS-YbU9ANHXPqzItwUrSdWaKomzG0fPXQRuKnJqJoWX-ItWyE-5tuZXEbW23rJNpxNUXTgeJlb8IzsJw36z_RW_H8zF0oFjKndukZXBQoEFAkFp8AM"
+    ],
+    "documentStatus": {
+      "nidFront": false,
+      "nidBack": false,
+      "signature": false,
+      "pic": false
+    },
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0
+  },
+  {
+    "_id": "671e076eef60921a055f2786",
+    "phoneNumber": "01917990919",
+    "deviceIds": [
+      "ejwbr4InQXuyEK5UMUGCWC:APA91bGIh430_3gbfc7L4s-YEuRJJMGgmjeUouippUOc5lnVYywOL4fBbv_Qig4q_vh-kMxsRgmj1-Rewv6cT4C6BrFpvTUZKutHBxRUkR5-PVl0H0tJJUcXiqOpZvitJOe7mWemJJCp"
+    ],
+    "documentStatus": {
+      "nidFront": false,
+      "nidBack": false,
+      "signature": false,
+      "pic": false
+    },
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 0,
+    "preferredLanguage": "en",
+    "clientId": 27,
+    "stage": 1,
+    "type": "adult"
+  },
+  {
+    "_id": "671e09d2ef60921a055f27a3",
+    "phoneNumber": "01912743620",
+    "deviceIds": [
+      "dNq9vNMxMp4kduBqQkpHP5:APA91bH2LoskWOOQb_dFXX8ViYe5G-pF3pd1NoZStKwEW0ozf9RvLIoAtFfiorWR0EFmOQOaxOmzeuod-5jx-PHdw-SU-Jl4uBKf8lro_qW4hxWuPmyg0PvJwSolM9fCugRuv-VlP5dT",
+      "cfqbqWv0Twyd1RDaX1aZqX:APA91bH6nLBJnhuB83wgB7u0R6vylvkaTSWnt9dYgOFN1V_1A9NerfdUIIBYft9WiKUypmtw4DuMVrw9BwIuj0T43gISuaMyivSN7teVyGulwnUuKzCRBnw"
+    ],
+    "documentStatus": {
+      "nidFront": true,
+      "nidBack": false,
+      "signature": false,
+      "pic": false
+    },
+    "name": "Account",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [],
+    "__v": 1,
+    "preferredLanguage": "en",
+    "clientId": 28,
+    "stage": 2,
+    "type": "adult"
+  },
+  {
+    "_id": "671f424083880bd1f4353c45",
+    "phoneNumber": "01631692916",
+    "deviceIds": [
+      "c3VFOBu5MUNClUz44nPnSf:APA91bF2UGdlPO4vapGRKswfxAJzCUV0GnkxnUeza6aZChQBKAP-rct7mLzd9H81Z8uGOllzMfxijnadHG0HmxYRYYc6XM_zQVm8DQ4jvMoY5Evx-LB9byuLMYbxbI8wJs29MGicEqg1"
+    ],
+    "documentStatus": {
+      "nidFront": true,
+      "nidBack": true,
+      "signature": false,
+      "pic": true
+    },
+    "name": "IFFAT FAHMIDA TURNA",
+    "skippedEkycStages": [],
+    "loginAttemptCount": 0,
+    "suspensionExpiry": null,
+    "completedEkycStages": [
+      {
+        "stage": "6718b2eefa0219a871a0e487",
+        "document": true,
+        "_id": "671f42f183880bd1f4353eac"
+      },
+      {
+        "stage": "6718b899fa0219a871a0e927",
+        "document": true,
+        "_id": "671f434c83880bd1f43540f9"
+      },
+      {
+        "stage": "67188516595319fe750b1d81",
+        "value": [
+          "turna"
+        ],
+        "document": false,
+        "_id": "671f435a83880bd1f4354122"
+      }
+    ],
+    "__v": 26,
+    "preferredLanguage": "en",
+    "clientId": 29,
+    "stage": 5,
+    "type": "adult",
+    "dateOfBirth": "2000-09-01T18:00:00.000Z",
+    "nidNumber": "5565535621",
+    "pinCodeHash": "$2a$10$G1/Baf2Kp3boYrPDmD33aedG94M4d8U3SBPeNjF1GW6/SVJ1O19Ha",
+    "lastLogin": "2024-10-28T08:03:12.279Z"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "_id": "670b5815191568b0d0f1afc9",
+    "bank": "670b47d339b86b785e9e3e71",
+    "accountHolderName": "Mr. Montu",
+    "accountNumber": "0001213",
+    "user": "670b55e6191568b0d0f1ad37",
+    "creationDate": "2024-10-13T05:18:13.073Z",
+    "__v": 0
+  },
+  {
+    "_id": "670b67ce191568b0d0f1ba8e",
+    "accountHolderName": "Junaed Hossain",
+    "accountNumber": "053464845466",
+    "branch": "670b48a939b86b785e9e3f2d",
+    "user": "670b5d02191568b0d0f1b4d1",
+    "creationDate": "2024-10-13T06:25:18.108Z",
+    "__v": 0
+  },
+  {
+    "_id": "670cb1086ae5b1a3d8a1e212",
+    "bank": "670b49fe39b86b785e9e403b",
+    "accountHolderName": "Mostofa",
+    "accountNumber": "123456789",
+    "user": "670b5d02191568b0d0f1b4d1",
+    "creationDate": "2024-10-14T05:50:00.971Z",
+    "__v": 0
+  },
+  {
+    "_id": "670df3ae6ae5b1a3d8a201fa",
+    "accountHolderName": "Iffat Fahmida",
+    "accountNumber": "8164649484",
+    "branch": "670b48a939b86b785e9e3f2d",
+    "user": "670b5b52191568b0d0f1b45f",
+    "creationDate": "2024-10-15T04:46:38.467Z",
+    "__v": 0
+  },
+  {
+    "_id": "6710dd6b780554e842bc8f7d",
+    "bank": "670b47d339b86b785e9e3e71",
+    "accountHolderName": "Riaj Hosen",
+    "accountNumber": "000000001",
+    "user": "670e049d6ae5b1a3d8a20909",
+    "creationDate": "2024-10-17T09:48:27.360Z",
+    "__v": 0
+  },
+  {
+    "_id": "6718e02cfa0219a871a14736",
+    "accountHolderName": "asdf",
+    "nickName": "df",
+    "accountNumber": "44555",
+    "branch": "670b48a939b86b785e9e3f2d",
+    "user": "670b494239b86b785e9e3fad",
+    "creationDate": "2024-10-23T11:38:20.406Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a07aa7bc807fb616e5f26",
+    "accountHolderName": "dhhd",
+    "nickName": "bdbd",
+    "accountNumber": "272828",
+    "branch": "670b480a39b86b785e9e3e7d",
+    "user": "670f6e68134d51df96a95f32",
+    "creationDate": "2024-10-24T08:39:06.849Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a0c7a7bc807fb616e75a3",
+    "accountHolderName": "gzgsh",
+    "nickName": "hdhhd",
+    "accountNumber": "368393993",
+    "branch": "670b480a39b86b785e9e3e7d",
+    "user": "670f6e68134d51df96a95f32",
+    "creationDate": "2024-10-24T08:59:38.007Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a0f607bc807fb616e7aef",
+    "bank": "670b486239b86b785e9e3f06",
+    "accountHolderName": "Jee",
+    "nickName": "Raaa",
+    "accountNumber": "8989",
+    "user": "670b494239b86b785e9e3fad",
+    "creationDate": "2024-10-24T09:12:00.195Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a18a54ee7c12c84d22dfe",
+    "accountHolderName": "Nafiza Haque",
+    "nickName": "Nafiza",
+    "accountNumber": "0000000138",
+    "branch": "670b480a39b86b785e9e3e7d",
+    "user": "6718a01cfa0219a871a0cf6f",
+    "creationDate": "2024-10-24T09:51:33.279Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a1b224ee7c12c84d22f7d",
+    "bank": "670b49fe39b86b785e9e403b",
+    "accountHolderName": "u. s. adiba",
+    "accountNumber": "012588888888",
+    "user": "6718a01cfa0219a871a0cf6f",
+    "creationDate": "2024-10-24T10:02:10.515Z",
+    "__v": 0
+  },
+  {
+    "_id": "671a24877bc807fb616eb23a",
+    "accountHolderName": "fdghdfghd",
+    "nickName": "vbddcf",
+    "accountNumber": "4354354",
+    "branch": "670b480a39b86b785e9e3e7d",
+    "user": "670e06f76ae5b1a3d8a20ca5",
+    "creationDate": "2024-10-24T10:42:15.749Z",
+    "__v": 0
+  },
+  {
+    "_id": "671deef27bc807fb616f02f1",
+    "bank": "670b47d339b86b785e9e3e71",
+    "accountHolderName": "Sandman ",
+    "accountNumber": "6464646977",
+    "user": "670e0de06ae5b1a3d8a214a0",
+    "creationDate": "2024-10-27T07:42:42.906Z",
+    "__v": 0
+  },
+  {
+    "_id": "671f4f26523051512654741e",
+    "bank": "670b47d339b86b785e9e3e71",
+    "accountHolderName": "Jason Holder",
+    "nickName": "Nick",
+    "accountNumber": "234",
+    "user": "670defb96ae5b1a3d8a20159",
+    "creationDate": "2024-10-28T08:45:26.770Z",
+    "__v": 0
+  },
+  {
+    "_id": "671f52275230515126547e44",
+    "accountHolderName": "Holder",
+    "nickName": "Nick",
+    "accountNumber": "089",
+    "branch": "670b48a939b86b785e9e3f2d",
+    "user": "670defb96ae5b1a3d8a20159",
+    "creationDate": "2024-10-28T08:58:15.180Z",
+    "__v": 0
+  },
+  {
+    "_id": "671f7995523051512654a715",
+    "bank": "671f71e0d76ca5baedb82bc2",
+    "accountHolderName": "Newholder",
+    "nickName": "Nickholder",
+    "accountNumber": "909",
+    "user": "670defb96ae5b1a3d8a20159",
+    "creationDate": "2024-10-28T11:46:29.696Z",
+    "__v": 0
+  }
+]

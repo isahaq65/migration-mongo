@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "670b4bf039b86b785e9e41fe",
+    "title": "১৫ জিবি",
+    "specialText": "বিশেষ অফার",
+    "tabCardId": "670b4bd139b86b785e9e41a5",
+    "__v": 0
+  },
+  {
+    "_id": "670b4c4e39b86b785e9e426e",
+    "title": "১০০ জিবি",
+    "specialText": "বিশেষ অফার",
+    "tabCardId": "670b4c3439b86b785e9e424e",
+    "__v": 0
+  },
+  {
+    "_id": "670b4ca539b86b785e9e42ac",
+    "title": "১.৫ জিবি",
+    "specialText": "লিমিটেড অফার",
+    "tabCardId": "670b4c9339b86b785e9e42a4",
+    "__v": 0
+  },
+  {
+    "_id": "670b4d6839b86b785e9e43b3",
+    "title": "১০০ মিনিট",
+    "specialText": "অফার",
+    "tabCardId": "670b4d5639b86b785e9e43aa",
+    "__v": 0
+  },
+  {
+    "_id": "670b4dac39b86b785e9e43fa",
+    "title": "২৫০ মিনিট",
+    "specialText": "লিমিটেড অফার",
+    "tabCardId": "670b4d9d39b86b785e9e43f2",
+    "__v": 0
+  },
+  {
+    "_id": "670b4e2b39b86b785e9e4480",
+    "title": "১ পয়সা/সেকেন্ড",
+    "specialText": "লিমিটেড অফার",
+    "tabCardId": "670b4e0e39b86b785e9e4455",
+    "__v": 0
+  },
+  {
+    "_id": "670b4e8239b86b785e9e44e8",
+    "title": "১০ পয়সা/সেকেন্ড",
+    "specialText": "বিশেষ অফার",
+    "tabCardId": "670b4e7439b86b785e9e44be",
+    "__v": 0
+  },
+  {
+    "_id": "670b4f7839b86b785e9e4685",
+    "title": "১৫ জিবি+১৫ মিনিট+১০০ এসএমএস",
+    "specialText": "বিশেষ অফার",
+    "tabCardId": "670b4f5539b86b785e9e466b",
+    "__v": 0
+  },
+  {
+    "_id": "670b4fd939b86b785e9e46d3",
+    "title": "১০০ এসএমএস",
+    "specialText": "বিশেষ অফার",
+    "tabCardId": "670b4fca39b86b785e9e46cb",
+    "__v": 0
+  }
+]

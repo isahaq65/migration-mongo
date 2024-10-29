@@ -1,0 +1,84 @@
+[
+  {
+    "_id": "670b4ebd39b86b785e9e4546",
+    "name": "Current Account",
+    "description": "Frequent withdrawals",
+    "colorCode": "E5EEF2",
+    "__v": 0,
+    "mappedProductId": 1,
+    "productType": {
+      "id": 1,
+      "value": "CasaAccount"
+    }
+  },
+  {
+    "_id": "670b4f2239b86b785e9e45f1",
+    "name": "Savings Account",
+    "description": "Occasional withdrawals",
+    "colorCode": "F3EAFF",
+    "__v": 0,
+    "mappedProductId": 2,
+    "productType": {
+      "id": 1,
+      "value": "CasaAccount"
+    }
+  },
+  {
+    "_id": "670b4f5339b86b785e9e4662",
+    "name": "DPS",
+    "description": "Monthly savings with special interest rates - giving you flexibility",
+    "colorCode": "DBECF3",
+    "__v": 0,
+    "amountStep": 500,
+    "mappedProductId": 5,
+    "productType": {
+      "id": 3,
+      "value": "RecurringDepositAccount"
+    },
+    "recurringFrequency": 1,
+    "tenureStep": 1
+  },
+  {
+    "_id": "670b4f8d39b86b785e9e46a2",
+    "name": "Fixed Deposit",
+    "description": "Customise your deposit at a fixed period to maximise your savings",
+    "colorCode": "F3EAFF",
+    "__v": 0,
+    "amountStep": 1000,
+    "productType": {
+      "id": 2,
+      "value": "FixedDepositAccount"
+    },
+    "tenureStep": 1,
+    "mappedProductId": 4
+  },
+  {
+    "_id": "6714dd976e5d1ef2d4279850",
+    "name": "sfsd",
+    "description": "sfsd",
+    "colorCode": "000000",
+    "__v": 0
+  },
+  {
+    "_id": "6714dd996e5d1ef2d4279854",
+    "name": "sfsd",
+    "description": "sfsd",
+    "colorCode": "000000",
+    "__v": 0
+  },
+  {
+    "_id": "671622cc595319fe750ab195",
+    "name": "RD Daily",
+    "description": "Daily Installment",
+    "colorCode": "FFD580",
+    "__v": 0,
+    "amountStep": 500,
+    "mappedProductId": 9,
+    "productType": {
+      "id": 3,
+      "value": "RecurringDepositAccount"
+    },
+    "recurringFrequency": 1,
+    "tenureStep": 5
+  }
+]

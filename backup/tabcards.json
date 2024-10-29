@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "670b4bd139b86b785e9e41a5",
+    "title": "15 GB",
+    "amount": 50,
+    "specialText": "Special Offer",
+    "specialTextColor": "",
+    "validity": {
+      "typeId": 2,
+      "value": 7
+    },
+    "operatortabId": "670b4b8439b86b785e9e4196",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4c3439b86b785e9e424e",
+    "title": "100 GB",
+    "amount": 20,
+    "specialText": "Special Offer",
+    "specialTextColor": "FFA500",
+    "validity": {
+      "typeId": 2,
+      "value": 15
+    },
+    "operatortabId": "670b4b8439b86b785e9e4196",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4c9339b86b785e9e42a4",
+    "title": "1.5 GB",
+    "amount": 26,
+    "specialText": "Limited Offer",
+    "specialTextColor": "800000",
+    "validity": {
+      "typeId": 2,
+      "value": 7
+    },
+    "operatortabId": "670b4b8439b86b785e9e4196",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4d5639b86b785e9e43aa",
+    "title": "100 Minute",
+    "amount": 88,
+    "specialText": "Offer",
+    "specialTextColor": "39B54A",
+    "validity": {
+      "typeId": 2,
+      "value": 30
+    },
+    "operatortabId": "670b4d1639b86b785e9e4328",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4d9d39b86b785e9e43f2",
+    "title": "250 Minute",
+    "amount": 50,
+    "specialText": "Limited Offer",
+    "specialTextColor": "39B54A",
+    "validity": {
+      "typeId": 2,
+      "value": 7
+    },
+    "operatortabId": "670b4d1639b86b785e9e4328",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4e0e39b86b785e9e4455",
+    "title": "1 Paisa/sec",
+    "amount": 55,
+    "specialText": "Limited Offer",
+    "specialTextColor": "39B54A",
+    "validity": {
+      "typeId": 2,
+      "value": 7
+    },
+    "operatortabId": "670b4dbf39b86b785e9e4405",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4e7439b86b785e9e44be",
+    "title": "10 Paisa/sec",
+    "amount": 45,
+    "specialText": "Special Offer",
+    "specialTextColor": "39B54A",
+    "validity": {
+      "typeId": 2,
+      "value": 30
+    },
+    "operatortabId": "670b4dbf39b86b785e9e4405",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4f5539b86b785e9e466b",
+    "title": "15GB+15min+100SMS",
+    "amount": 200,
+    "specialText": "Special Offer ",
+    "specialTextColor": "39B54A",
+    "validity": {
+      "typeId": 2,
+      "value": 20
+    },
+    "operatortabId": "670b4ecc39b86b785e9e455b",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b4fca39b86b785e9e46cb",
+    "title": "100 SMS",
+    "amount": 10,
+    "specialText": "Special Offer",
+    "specialTextColor": "39B54A",
+    "validity": {
+      "typeId": 2,
+      "value": 7
+    },
+    "operatortabId": "670b4f8a39b86b785e9e469e",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "67109ade5d5144cc73721d99",
+    "title": "asdf",
+    "amount": 10,
+    "specialText": "sadf",
+    "specialTextColor": "FFFFFF",
+    "validity": {
+      "typeId": 2,
+      "value": 5
+    },
+    "operatortabId": "67109aca5d5144cc73721d93",
+    "active": true,
+    "__v": 0
+  }
+]

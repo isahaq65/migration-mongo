@@ -1,0 +1,153 @@
+[
+  {
+    "_id": "670b4c6339b86b785e9e4275",
+    "resourceNamePermission": "FUNDTRANSFER",
+    "actionNamePermission": "CREATE",
+    "title": "Fund Transfer",
+    "subTitle": "Fund Transfer",
+    "body": "Fund transfer $amount is successful to $toAccount from the account: $fromAccount. Your Transaction ID is: $trxId",
+    "variables": [
+      "amount",
+      "toAccount",
+      "fromAccount",
+      "trxId"
+    ],
+    "__v": 0,
+    "created_date": "2024-10-13T04:28:19.410Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "670b4ca839b86b785e9e42b3",
+    "resourceNamePermission": "MOBILERECHARGE",
+    "actionNamePermission": "CREATE",
+    "title": "Mobile Recharge",
+    "subTitle": "Mobile Recharge",
+    "body": "Mobile recharge ৳$amount is successful to the number $mobileNumber from the account: $fromAccount. Your Transaction ID is: $trxId",
+    "variables": [
+      "amount",
+      "mobileNumber",
+      "fromAccount",
+      "trxId"
+    ],
+    "__v": 0,
+    "created_date": "2024-10-13T04:29:28.912Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "670b4d0439b86b785e9e431d",
+    "resourceNamePermission": "BILL",
+    "actionNamePermission": "CREATE",
+    "title": "Pay Bill",
+    "subTitle": "Utility Bill",
+    "body": "Bill payment ৳$amount is successful to $fromAccount from the account: $toAccount. Your Transaction ID is: $trxId",
+    "variables": [
+      "amount",
+      "fromAccount",
+      "toAccount",
+      "trxId"
+    ],
+    "__v": 0,
+    "created_date": "2024-10-13T04:31:00.839Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "670b4d3f39b86b785e9e4364",
+    "resourceNamePermission": "DEPOSITIN",
+    "actionNamePermission": "CREATE",
+    "title": "Deposit",
+    "subTitle": "Deposit",
+    "body": "Deposit ৳$amount is successful from $fromAccount to the account: $toAccount. Your Transaction ID is: $trxId",
+    "variables": [
+      "amount",
+      "fromAccount",
+      "toAccount",
+      "trxId"
+    ],
+    "__v": 0,
+    "created_date": "2024-10-13T04:31:59.383Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "670b4d7e39b86b785e9e43d3",
+    "resourceNamePermission": "RECEIVEDMONEY",
+    "actionNamePermission": "CREATE",
+    "title": "Receive Money",
+    "subTitle": "Receive Money",
+    "body": "You have received ৳$amount from $fromAccount to your account: $toAccount. Your Transaction ID is: $trxId",
+    "variables": [
+      "amount",
+      "fromAccount",
+      "toAccount",
+      "trxId"
+    ],
+    "__v": 0,
+    "created_date": "2024-10-13T04:33:02.263Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "670b4dc739b86b785e9e4409",
+    "resourceNamePermission": "USERPIN",
+    "actionNamePermission": "UPDATE",
+    "title": "Pin Update",
+    "subTitle": "Pin Update",
+    "body": "Your PIN has been updated successfully",
+    "variables": null,
+    "__v": 0,
+    "created_date": "2024-10-13T04:34:15.859Z",
+    "createdby_id": 1
+  },
+  {
+    "_id": "67163cf0595319fe750ac330",
+    "resourceNamePermission": "CASACLOSE",
+    "actionNamePermission": "DELETE",
+    "title": "Account Closure",
+    "subTitle": "Account Close",
+    "body": "Your account- $accountNumber has been closed successfully",
+    "variables": [
+      "accountNumber"
+    ],
+    "__v": 1,
+    "created_date": "2024-10-21T11:37:20.348Z",
+    "createdby_id": 6,
+    "lastmodified_date": "2024-10-21T11:38:26.306Z",
+    "lastmodifiedby_id": 6
+  },
+  {
+    "_id": "6716409b595319fe750ac526",
+    "resourceNamePermission": "CASACLOSUREREQUEST",
+    "actionNamePermission": "CREATE",
+    "title": "Account Close Request",
+    "subTitle": "CASA Close Request",
+    "body": "Your account - $accountNumber closure request is accepted. Please pay the dues to close your account",
+    "variables": [
+      "accountNumber"
+    ],
+    "__v": 0,
+    "created_date": "2024-10-21T11:52:59.134Z",
+    "createdby_id": 6
+  },
+  {
+    "_id": "67164176595319fe750ac53b",
+    "resourceNamePermission": "EKYC",
+    "actionNamePermission": "CREATE",
+    "title": "KYC",
+    "subTitle": "EKYC",
+    "body": "Congratulations! You have successfully completed the KYC.",
+    "variables": null,
+    "__v": 0,
+    "created_date": "2024-10-21T11:56:38.529Z",
+    "createdby_id": 6
+  },
+  {
+    "_id": "671e0ff3ef60921a055f2e82",
+    "resourceNamePermission": "DEPSOITCLOSE",
+    "actionNamePermission": "CREATE",
+    "title": "Deposit Close",
+    "subTitle": "Close",
+    "body": "Deposit Closed",
+    "variables": null,
+    "__v": 0,
+    "created_date": "2024-10-27T10:03:31.699Z",
+    "createdby_id": 6
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "_id": "65fc0a3e9a645478f3c3fffe",
+    "billerType": "POSTPAID",
+    "customerType": "BOTH",
+    "billerService": "65fc0a328927a87eac921694",
+    "name": "Bakhrabad Gas",
+    "fullName": "Bakhrabad Gas",
+    "inputs": [
+      {
+        "key": "bill_mobno",
+        "label": "ONLINE REGISTERED MOBILE NUMBER",
+        "max": 10,
+        "min": 10,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40000"
+      },
+      {
+        "key": "bll_typ",
+        "label": "BILLER TYPE",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40001"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "CUSTOMER ONLINE CODE",
+        "max": 13,
+        "min": 13,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40002"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c4000f",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac921694",
+    "name": "Paschimanchal Gas",
+    "fullName": "Paschimanchal Gas Company Limited",
+    "inputs": [
+      {
+        "key": "bill_mobno",
+        "label": "Mobile Number",
+        "max": 10,
+        "min": 10,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40011"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "Account Number",
+        "max": 14,
+        "min": 6,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40012"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1,
+    "__v": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ff80",
+    "billerType": "POSTPAID",
+    "customerType": "BOTH",
+    "billerService": "65fc0a328927a87eac921694",
+    "name": "Karnaphuli Gas",
+    "fullName": "Karnaphuli Gas Distribution Company Limited",
+    "inputs": [
+      {
+        "key": "bll_typ",
+        "label": "Biller Type",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ff82"
+      },
+      {
+        "key": "bill_mobno",
+        "label": "Mobile Number",
+        "max": 10,
+        "min": 10,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ff83"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "Biller Account Number",
+        "max": 14,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ff84"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1,
+    "__v": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ffad",
+    "billerType": null,
+    "customerType": "METERED",
+    "billerService": "65fc0a328927a87eac9216b3",
+    "name": "Dpdc Prepaid",
+    "fullName": "Dhaka Power Distribution Company",
+    "inputs": [],
+    "params": [
+      {
+        "key": "value",
+        "value": "Dpdc",
+        "_id": "670f42876ae5b1a3d8a23969"
+      }
+    ],
+    "__v": 3,
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ff97",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216b3",
+    "name": "West Zone Postpaid",
+    "fullName": "West Zone Power Distribution",
+    "inputs": [
+      {
+        "key": "bllr_accno",
+        "label": "Account Number",
+        "max": 14,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ff99"
+      }
+    ],
+    "params": [
+      {
+        "key": "wzpdcl",
+        "value": "WZPDCL",
+        "_id": "670f407d6ae5b1a3d8a23680"
+      }
+    ],
+    "__v": 2,
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ffa6",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac921694",
+    "name": "Jalalabad Gas ",
+    "fullName": "Jalalabad Gas Transmission Limited",
+    "inputs": [
+      {
+        "key": "bill_mobno",
+        "label": "MOBILE NUMBER",
+        "max": 10,
+        "min": 10,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffa8"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "ACCOUNT NUMBER",
+        "max": 12,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffa9"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c40007",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216d8",
+    "name": "E-porcha",
+    "fullName": "E-Porcha",
+    "inputs": [
+      {
+        "key": "bllr_accno",
+        "label": "REFERENCE ID",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40009"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ff89",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216a1",
+    "name": "BTCL",
+    "fullName": "Bangladesh Telecommunications Company Limited",
+    "inputs": [
+      {
+        "key": "bll_no",
+        "label": "BILL NUMBER",
+        "max": 20,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ff8b"
+      }
+    ],
+    "params": [
+      {
+        "key": "value",
+        "value": "test1",
+        "_id": "670f48f96ae5b1a3d8a240b3"
+      }
+    ],
+    "__v": 2,
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ffd2",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216b3",
+    "name": "Dpdc Postpaid",
+    "fullName": "Dhaka Power Distribution Company",
+    "inputs": [
+      {
+        "key": "bllr_accno",
+        "label": "Account Code",
+        "max": 8,
+        "min": 8,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffd4"
+      },
+      {
+        "key": "bll_period",
+        "label": "Bill Month, Bill Year",
+        "max": 20,
+        "min": 1,
+        "type": "Date",
+        "_id": "65fc0a3e9a645478f3c3ffd5"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1,
+    "__v": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ffe3",
+    "billerType": null,
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216b3",
+    "name": "desco prepaid",
+    "fullName": "Dhaka Electric Supply Company",
+    "inputs": [
+      {
+        "key": "bill_mobno",
+        "label": "Mobile Number",
+        "max": 10,
+        "min": 10,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffe5"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "Account Number",
+        "max": 14,
+        "min": 8,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffe6"
+      },
+      {
+        "key": "amount",
+        "label": "Recharge Amount",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffe7"
+      }
+    ],
+    "params": [
+      {
+        "key": "value",
+        "value": "value",
+        "_id": "670f3fac6ae5b1a3d8a235ff"
+      }
+    ],
+    "__v": 2,
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3fff5",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216d8",
+    "name": "NSDA",
+    "fullName": "NSDA",
+    "inputs": [
+      {
+        "key": "bllr_accno",
+        "label": "APPLICANT ID",
+        "max": 30,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3fff7"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ffb3",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216aa",
+    "name": "Dhaka Wasa",
+    "fullName": "Dhaka Wasa",
+    "inputs": [
+      {
+        "key": "bll_no",
+        "label": "Bill Number",
+        "max": 12,
+        "min": 12,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffb5"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1,
+    "__v": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ffba",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216d8",
+    "name": "E-mutation",
+    "fullName": "E-mutation",
+    "inputs": [
+      {
+        "key": "meter_no",
+        "label": "TRACKING(ABEDON) NO",
+        "max": null,
+        "min": null,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffbc"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ffda",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216b3",
+    "name": "Nesco Postpaid",
+    "fullName": "Northern Electricity Supply Company Ltd.",
+    "inputs": [
+      {
+        "key": "bll_no",
+        "label": "Bill Number",
+        "max": 12,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffdc"
+      }
+    ],
+    "params": [
+      {
+        "key": "value",
+        "value": "value",
+        "_id": "670f41db6ae5b1a3d8a23776"
+      }
+    ],
+    "__v": 3,
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ff9e",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216b3",
+    "name": "Desco Postpaid",
+    "fullName": "Dhaka Electric Supply Company",
+    "inputs": [
+      {
+        "key": "bll_no",
+        "label": "Bill Number",
+        "max": 12,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffa0"
+      }
+    ],
+    "params": [
+      {
+        "key": "value",
+        "value": "value",
+        "_id": "670f41606ae5b1a3d8a236c8"
+      }
+    ],
+    "__v": 3,
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ffca",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216d8",
+    "name": "Land Tax",
+    "fullName": "Land Tax",
+    "inputs": [
+      {
+        "key": "bllr_accno",
+        "label": "PAYMENT TOKEN",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffcc"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ff90",
+    "billerType": "POSTPAID",
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216aa",
+    "name": "Rajshahi Wasa",
+    "fullName": "Rajshahi Wasa",
+    "inputs": [
+      {
+        "key": "bll_no",
+        "label": "Bill Number",
+        "max": 20,
+        "min": 4,
+        "type": "String",
+        "_id": "66d93defbb1f7e78609f8b48"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1,
+    "__v": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ffc2",
+    "billerType": "POSTPAID",
+    "customerType": "BOTH",
+    "billerService": "65fc0a328927a87eac9216aa",
+    "name": "Khulna Wasa",
+    "fullName": "Khulna Wasa",
+    "inputs": [
+      {
+        "key": "bll_typ",
+        "label": "Bill Type",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffc4"
+      },
+      {
+        "key": "bll_no",
+        "label": "Bill Number",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffc5"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1,
+    "__v": 1
+  },
+  {
+    "_id": "65fc0a3e9a645478f3c3ffed",
+    "billerType": null,
+    "customerType": "NON-METERED",
+    "billerService": "65fc0a328927a87eac9216b3",
+    "name": "Nesco Prepaid",
+    "fullName": "Northern Electricity Supply Company Ltd.",
+    "inputs": [
+      {
+        "key": "amount",
+        "label": "Recharge Amount",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffef"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "Customer Number",
+        "max": 14,
+        "min": 8,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3fff0"
+      }
+    ],
+    "params": [],
+    "paymentTypeId": 1,
+    "__v": 1
+  }
+]

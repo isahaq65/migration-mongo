@@ -1,0 +1,474 @@
+[
+  {
+    "_id": "670b680d191568b0d0f1baf8",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Approved",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "gaha",
+      "accountNumber": "000000007",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-13T06:26:46.572Z",
+      "transferableAmount": 500
+    },
+    "createdAt": "2024-10-13T06:26:21.623Z",
+    "__v": 0
+  },
+  {
+    "_id": "670b7158191568b0d0f1bf6f",
+    "user": "670b5d02191568b0d0f1b4d1",
+    "status": "Approved",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "test",
+      "accountNumber": "000000011",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-13T07:11:11.541Z",
+      "transferableAmount": 75000
+    },
+    "createdAt": "2024-10-13T07:06:00.227Z",
+    "__v": 0
+  },
+  {
+    "_id": "670b7232191568b0d0f1bf9a",
+    "user": "670b5d02191568b0d0f1b4d1",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "jajja",
+      "accountNumber": "000000017",
+      "linkedAccounts": [],
+      "closeDate": "2024-10-12T18:00:00.000Z"
+    },
+    "createdAt": "2024-10-13T07:09:38.435Z",
+    "__v": 0
+  },
+  {
+    "_id": "670ce3606ae5b1a3d8a1f12e",
+    "user": "670b5b52191568b0d0f1b45f",
+    "status": "Approved",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "eheyru",
+      "accountNumber": "000000020",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-14T09:27:24.054Z",
+      "transferableAmount": 1000
+    },
+    "createdAt": "2024-10-14T09:24:48.603Z",
+    "__v": 0
+  },
+  {
+    "_id": "670e0e696ae5b1a3d8a215a6",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000036",
+      "linkedAccounts": [],
+      "closeDate": "2024-10-14T18:00:00.000Z"
+    },
+    "createdAt": "2024-10-15T06:40:41.999Z",
+    "__v": 0
+  },
+  {
+    "_id": "670e10db6ae5b1a3d8a21804",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000015",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-15T06:51:23.957Z",
+      "transferableAmount": 200
+    },
+    "createdAt": "2024-10-15T06:51:07.226Z",
+    "__v": 0
+  },
+  {
+    "_id": "670e2a1c84545617185fe68d",
+    "user": "670e049d6ae5b1a3d8a20909",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000045",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-15T08:40:58.278Z",
+      "transferableAmount": 1000
+    },
+    "createdAt": "2024-10-15T08:38:52.832Z",
+    "__v": 0
+  },
+  {
+    "_id": "670e498ccb4325110177941e",
+    "user": "670ca0b56ae5b1a3d8a1d87a",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "accountNumber": "000000051",
+      "linkedAccounts": [],
+      "closeDate": "2024-10-16T18:00:00.000Z"
+    },
+    "createdAt": "2024-10-15T10:53:00.041Z",
+    "__v": 0
+  },
+  {
+    "_id": "670e49d2cb43251101779525",
+    "user": "670ca0b56ae5b1a3d8a1d87a",
+    "status": "Rejected",
+    "type": "AccountClosing",
+    "metaData": {
+      "accountNumber": "000000052",
+      "linkedAccounts": [],
+      "rejectDate": "2024-10-17T04:43:04.007Z",
+      "rejectReason": "sadf"
+    },
+    "createdAt": "2024-10-15T10:54:10.016Z",
+    "__v": 0
+  },
+  {
+    "_id": "670e4adecb4325110177958b",
+    "user": "670ca0b56ae5b1a3d8a1d87a",
+    "status": "Rejected",
+    "type": "AccountClosing",
+    "metaData": {
+      "accountNumber": "000000054",
+      "linkedAccounts": [],
+      "rejectDate": "2024-10-17T04:41:14.334Z",
+      "rejectReason": "sdaf"
+    },
+    "createdAt": "2024-10-15T10:58:38.857Z",
+    "__v": 0
+  },
+  {
+    "_id": "671096915d5144cc73721a4e",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "hshja",
+      "accountNumber": "000000080",
+      "linkedAccounts": [],
+      "closeDate": "2024-10-16T18:00:00.000Z"
+    },
+    "createdAt": "2024-10-17T04:46:09.043Z",
+    "__v": 0
+  },
+  {
+    "_id": "671097455d5144cc73721b4e",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "UCI",
+      "accountNumber": "000000081",
+      "linkedAccounts": [],
+      "closeDate": "2024-10-16T18:00:00.000Z"
+    },
+    "createdAt": "2024-10-17T04:49:09.848Z",
+    "__v": 0
+  },
+  {
+    "_id": "671099dbcdf61fb3aad07eab",
+    "user": "670ca0b56ae5b1a3d8a1d87a",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000049",
+      "linkedAccounts": [],
+      "closeDate": "2024-10-16T18:00:00.000Z"
+    },
+    "createdAt": "2024-10-17T05:00:11.586Z",
+    "__v": 0
+  },
+  {
+    "_id": "67109b55ecf55238eb1a90f9",
+    "user": "670ca0b56ae5b1a3d8a1d87a",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000052",
+      "linkedAccounts": [],
+      "closeDate": "2024-10-16T18:00:00.000Z"
+    },
+    "createdAt": "2024-10-17T05:06:29.769Z",
+    "__v": 0
+  },
+  {
+    "_id": "6710ae215d5144cc73722390",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "UCI",
+      "accountNumber": "000000083",
+      "linkedAccounts": [],
+      "closeDate": "2024-10-16T18:00:00.000Z"
+    },
+    "createdAt": "2024-10-17T06:26:41.765Z",
+    "__v": 0
+  },
+  {
+    "_id": "6710f79d5d5144cc73725b51",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "asdf",
+      "accountNumber": "000000084",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-17T11:40:34.621Z",
+      "transferableAmount": 2000
+    },
+    "createdAt": "2024-10-17T11:40:13.180Z",
+    "__v": 0
+  },
+  {
+    "_id": "67173848e7dc885e34a9d7ea",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000115",
+      "linkedAccounts": [],
+      "closeDate": "2024-10-21T18:00:00.000Z"
+    },
+    "createdAt": "2024-10-22T05:29:44.604Z",
+    "__v": 0
+  },
+  {
+    "_id": "67173992e7dc885e34a9d82c",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Rejected",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000116",
+      "linkedAccounts": [],
+      "rejectDate": "2024-10-22T05:37:52.230Z",
+      "rejectReason": "dfsg"
+    },
+    "createdAt": "2024-10-22T05:35:14.133Z",
+    "__v": 0
+  },
+  {
+    "_id": "671739ebe7dc885e34a9d88f",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Rejected",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000116",
+      "linkedAccounts": [],
+      "rejectDate": "2024-10-22T05:38:51.571Z",
+      "rejectReason": "asdf"
+    },
+    "createdAt": "2024-10-22T05:36:43.102Z",
+    "__v": 0
+  },
+  {
+    "_id": "67173a1ee7dc885e34a9d8fa",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Approved",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000116",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-22T05:39:13.781Z",
+      "transferableAmount": 100
+    },
+    "createdAt": "2024-10-22T05:37:34.896Z",
+    "__v": 0
+  },
+  {
+    "_id": "67174126e7dc885e34a9da3c",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000117",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-22T06:09:11.175Z",
+      "transferableAmount": 500
+    },
+    "createdAt": "2024-10-22T06:07:34.214Z",
+    "__v": 0
+  },
+  {
+    "_id": "67175fcb595319fe750aeed9",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "asdf",
+      "accountNumber": "000000123",
+      "linkedAccounts": [
+        {
+          "dpsAccountNo": "000000124",
+          "newLinkedAccountNo": "000000006",
+          "_id": "67175fcb595319fe750aeeda"
+        }
+      ],
+      "approveDate": "2024-10-22T08:18:48.767Z",
+      "transferableAmount": 49500
+    },
+    "createdAt": "2024-10-22T08:18:19.792Z",
+    "__v": 0
+  },
+  {
+    "_id": "671760d91aa71a54e7b4a650",
+    "user": "670b494239b86b785e9e3fad",
+    "status": "Approved",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000126",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-27T05:46:52.256Z",
+      "transferableAmount": 500
+    },
+    "createdAt": "2024-10-22T08:22:49.560Z",
+    "__v": 0
+  },
+  {
+    "_id": "671dde0b7bc807fb616efbe7",
+    "user": "670defb96ae5b1a3d8a20159",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000163",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-27T06:31:18.888Z",
+      "transferableAmount": 1000
+    },
+    "createdAt": "2024-10-27T06:30:35.362Z",
+    "__v": 0
+  },
+  {
+    "_id": "671ddf787bc807fb616efde3",
+    "user": "670defb96ae5b1a3d8a20159",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "Personal Issue",
+      "accountNumber": "000000164",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-27T06:37:10.903Z",
+      "transferableAmount": 100
+    },
+    "createdAt": "2024-10-27T06:36:40.379Z",
+    "__v": 0
+  },
+  {
+    "_id": "671e1ad8ef60921a055f3b95",
+    "user": "670defb96ae5b1a3d8a20159",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "accountNumber": "000000167",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-27T10:50:33.724Z",
+      "transferableAmount": 2000000
+    },
+    "createdAt": "2024-10-27T10:50:00.771Z",
+    "__v": 0
+  },
+  {
+    "_id": "671e25f8ef60921a055f3f43",
+    "user": "670defb96ae5b1a3d8a20159",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "accountNumber": "000000166",
+      "linkedAccounts": [],
+      "closeDate": "2024-10-26T18:00:00.000Z"
+    },
+    "createdAt": "2024-10-27T11:37:28.627Z",
+    "__v": 0
+  },
+  {
+    "_id": "671e2637ef60921a055f3f6f",
+    "user": "670defb96ae5b1a3d8a20159",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "accountNumber": "000000165",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-27T11:39:00.561Z",
+      "transferableAmount": 2002000
+    },
+    "createdAt": "2024-10-27T11:38:31.163Z",
+    "__v": 0
+  },
+  {
+    "_id": "671e2787ef60921a055f40aa",
+    "user": "670defb96ae5b1a3d8a20159",
+    "status": "Approved",
+    "type": "AccountClosing",
+    "metaData": {
+      "accountNumber": "000000176",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-27T11:44:36.848Z",
+      "transferableAmount": 1000000
+    },
+    "createdAt": "2024-10-27T11:44:07.744Z",
+    "__v": 0
+  },
+  {
+    "_id": "671f2e04ef60921a055f4c80",
+    "user": "6718a01cfa0219a871a0cf6f",
+    "status": "Closed",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "jjdxjc",
+      "accountNumber": "000000138",
+      "linkedAccounts": [
+        {
+          "dpsAccountNo": "000000170",
+          "newLinkedAccountNo": "000000137",
+          "_id": "671f2e04ef60921a055f4c81"
+        }
+      ],
+      "approveDate": "2024-10-28T06:32:12.932Z",
+      "transferableAmount": 500
+    },
+    "createdAt": "2024-10-28T06:24:04.307Z",
+    "__v": 0
+  },
+  {
+    "_id": "671f3416ef60921a055f596f",
+    "user": "670defb96ae5b1a3d8a20159",
+    "status": "Pending",
+    "type": "AccountClosing",
+    "metaData": {
+      "accountNumber": "000000185",
+      "linkedAccounts": []
+    },
+    "createdAt": "2024-10-28T06:49:58.215Z",
+    "__v": 0
+  },
+  {
+    "_id": "671f70845230515126549e4b",
+    "user": "670defb96ae5b1a3d8a20159",
+    "status": "Approved",
+    "type": "AccountClosing",
+    "metaData": {
+      "reason": "asdf",
+      "accountNumber": "000000194",
+      "linkedAccounts": [],
+      "approveDate": "2024-10-28T11:08:27.120Z",
+      "transferableAmount": 1000000
+    },
+    "createdAt": "2024-10-28T11:07:48.214Z",
+    "__v": 0
+  }
+]

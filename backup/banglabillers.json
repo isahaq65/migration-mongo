@@ -1,0 +1,461 @@
+[
+  {
+    "_id": "670f3de46ae5b1a3d8a23356",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ffd2",
+    "inputs": [
+      {
+        "key": "bllr_accno",
+        "label": "অ্যাকাউন্ট কোড",
+        "max": 8,
+        "min": 8,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffd4"
+      },
+      {
+        "key": "bll_period",
+        "label": "বিল মাস, বিল বছর",
+        "max": 20,
+        "min": 1,
+        "type": "Date",
+        "_id": "65fc0a3e9a645478f3c3ffd5"
+      }
+    ],
+    "name": "ডিপিডিসি পোস্টপেইড ",
+    "fullName": "ঢাকা পাওয়ার ডিসট্রিবিউশন কোম্পানী",
+    "__v": 0
+  },
+  {
+    "_id": "670f3f2a6ae5b1a3d8a235af",
+    "billerType": "প্রিপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ffed",
+    "inputs": [
+      {
+        "key": "amount",
+        "label": "রিচার্জ পরিমাণ",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffef"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "গ্রাহক নম্বর",
+        "max": 14,
+        "min": 8,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3fff0"
+      }
+    ],
+    "name": "নেসকো প্রিপেইড",
+    "fullName": "নর্দার্ন ইলেকট্রিসিটি সাপ্লাই কোম্পানী লিমিটেড",
+    "__v": 0
+  },
+  {
+    "_id": "670f40516ae5b1a3d8a2364a",
+    "billerType": "প্রিপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ffe3",
+    "inputs": [
+      {
+        "key": "bill_mobno",
+        "label": "মোবাইল নম্বর",
+        "max": 10,
+        "min": 10,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffe5"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "অ্যাকাউন্ট নম্বর",
+        "max": 14,
+        "min": 8,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffe6"
+      },
+      {
+        "key": "amount",
+        "label": "রিচার্জ অ্যামাউন্ট",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffe7"
+      }
+    ],
+    "name": "ডেসকো প্রিপেইড",
+    "fullName": "ঢাকা ইলেকট্রিক সাপ্লাই কোম্পানী",
+    "__v": 0
+  },
+  {
+    "_id": "670f40b76ae5b1a3d8a23690",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ff97",
+    "inputs": [
+      {
+        "key": "bllr_accno",
+        "label": "অ্যাকাউন্ট নম্বর",
+        "max": 14,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ff99"
+      }
+    ],
+    "name": "ওয়েস্ট জোন পোস্টপেইড",
+    "fullName": "ওয়েস্ট জোন পাওয়ার ডিসট্রিবিউশন",
+    "__v": 0
+  },
+  {
+    "_id": "670f41ad6ae5b1a3d8a23723",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ff9e",
+    "inputs": [
+      {
+        "key": "bll_no",
+        "label": "বিল নম্বর",
+        "max": 12,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffa0"
+      }
+    ],
+    "name": "ডেসকো পোস্টপেইড",
+    "fullName": "ঢাকা ইলেকট্রিক সাপ্লাই কোম্পানী",
+    "__v": 0
+  },
+  {
+    "_id": "670f42176ae5b1a3d8a23785",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ffda",
+    "inputs": [
+      {
+        "key": "bll_no",
+        "label": "বিল নম্বর",
+        "max": 12,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffdc"
+      }
+    ],
+    "name": "নেসকো পোস্টপেইড",
+    "fullName": "নর্দার্ন ইলেকট্রিসিটি সাপ্লাই কোম্পানী লিমিটেড",
+    "__v": 0
+  },
+  {
+    "_id": "670f42c66ae5b1a3d8a2397c",
+    "billerType": "প্রিপেইড",
+    "customerType": "মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ffad",
+    "inputs": [],
+    "name": "ডিপিডিসি প্রিপেইড",
+    "fullName": "ঢাকা পাওয়ার ডিসট্রিবিউশন কোম্পানী",
+    "__v": 0
+  },
+  {
+    "_id": "670f434e6ae5b1a3d8a239ce",
+    "billerType": "পোস্টপেইড",
+    "customerType": "উভয়",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ffc2",
+    "inputs": [
+      {
+        "key": "bll_typ",
+        "label": "বিলের ধরন",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffc4"
+      },
+      {
+        "key": "bll_no",
+        "label": "বিল নম্বর",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffc5"
+      }
+    ],
+    "name": "খুলনা ওয়াসা",
+    "fullName": "খুলনা ওয়াসা",
+    "__v": 0
+  },
+  {
+    "_id": "670f43a46ae5b1a3d8a239fc",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ffb3",
+    "inputs": [
+      {
+        "key": "bll_no",
+        "label": "বিল নম্বর",
+        "max": 12,
+        "min": 12,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffb5"
+      }
+    ],
+    "name": "ঢাকা ওয়াসা",
+    "fullName": "ঢাকা ওয়াসা",
+    "__v": 0
+  },
+  {
+    "_id": "670f43fe6ae5b1a3d8a23a41",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ff90",
+    "inputs": [
+      {
+        "key": "bll_no",
+        "label": "বিল নম্বর",
+        "max": 20,
+        "min": 4,
+        "type": "String",
+        "_id": "66d93defbb1f7e78609f8b48"
+      }
+    ],
+    "name": "রাজশাহী ওয়াসা",
+    "fullName": "রাজশাহী ওয়াসা",
+    "__v": 0
+  },
+  {
+    "_id": "670f44d16ae5b1a3d8a23bcb",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3fffe",
+    "inputs": [
+      {
+        "key": "bill_mobno",
+        "label": " অনলাইন নিবন্ধিত মোবাইল নম্বর",
+        "max": 10,
+        "min": 10,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40000"
+      },
+      {
+        "key": "bll_typ",
+        "label": "বিলের ধরণ",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40001"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "গ্রাহক অনলাইন কোড",
+        "max": 13,
+        "min": 13,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40002"
+      }
+    ],
+    "name": "বাখরাবাদ গ্যাস",
+    "fullName": "বাখরাবাদ গ্যাস",
+    "__v": 0
+  },
+  {
+    "_id": "670f45ae6ae5b1a3d8a23c28",
+    "billerType": "পোস্টপেইড",
+    "customerType": "উভয়",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ff80",
+    "inputs": [
+      {
+        "key": "bll_typ",
+        "label": "বিলের ধরণ",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ff82"
+      },
+      {
+        "key": "bill_mobno",
+        "label": "মোবাইল নম্বর",
+        "max": 10,
+        "min": 10,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ff83"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "বিলার একাউন্ট নম্বর",
+        "max": 14,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ff84"
+      }
+    ],
+    "name": "কর্ণফুলী গ্যাস",
+    "fullName": "কর্ণফুলী গ্যাস ডিসট্রিবিউশন কোম্পানী লিমিটেড",
+    "__v": 0
+  },
+  {
+    "_id": "670f46696ae5b1a3d8a23d83",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c4000f",
+    "inputs": [
+      {
+        "key": "bill_mobno",
+        "label": "মোবাইল নম্বর",
+        "max": 10,
+        "min": 10,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40011"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "অ্যাকাউন্ট নম্বর",
+        "max": 14,
+        "min": 6,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40012"
+      }
+    ],
+    "name": "পশ্চিমাঞ্চল গ্যাস",
+    "fullName": "পশ্চিমাঞ্চল গ্যাস কোম্পানী লিমিটেড",
+    "__v": 0
+  },
+  {
+    "_id": "670f46b06ae5b1a3d8a23e25",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ffa6",
+    "inputs": [
+      {
+        "key": "bill_mobno",
+        "label": "মোবাইল নম্বর",
+        "max": 10,
+        "min": 10,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffa8"
+      },
+      {
+        "key": "bllr_accno",
+        "label": "অ্যাকাউন্ট নম্বর",
+        "max": 12,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffa9"
+      }
+    ],
+    "name": "জালালাবাদ গ্যাস",
+    "fullName": "জালালাবাদ গ্যাস ট্রান্সমিশন লিমিটেড",
+    "__v": 0
+  },
+  {
+    "_id": "670f47106ae5b1a3d8a23eae",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ffba",
+    "inputs": [
+      {
+        "key": "meter_no",
+        "label": "ট্র্যাকিং (আবেদন) নং",
+        "max": null,
+        "min": null,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffbc"
+      }
+    ],
+    "name": "ই-নামজারি",
+    "fullName": "ই-নামজারি",
+    "__v": 0
+  },
+  {
+    "_id": "670f47cd6ae5b1a3d8a23f98",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c40007",
+    "inputs": [
+      {
+        "key": "bllr_accno",
+        "label": "রেফারেন্স আইডি",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c40009"
+      }
+    ],
+    "name": "ই-পর্চা",
+    "fullName": "ই-পর্চা",
+    "__v": 0
+  },
+  {
+    "_id": "670f48a26ae5b1a3d8a24030",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3fff5",
+    "inputs": [
+      {
+        "key": "bllr_accno",
+        "label": "আবেদনকারী আইডি",
+        "max": 30,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3fff7"
+      }
+    ],
+    "name": "এনএসডিএ ",
+    "fullName": "এনএসডিএ ",
+    "__v": 0
+  },
+  {
+    "_id": "670f48e36ae5b1a3d8a24069",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ffca",
+    "inputs": [
+      {
+        "key": "bllr_accno",
+        "label": "পেমেন্ট টোকেন",
+        "max": 20,
+        "min": 1,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ffcc"
+      }
+    ],
+    "name": "ভূমি কর",
+    "fullName": "ভূমি উন্নয়ন কর",
+    "__v": 0
+  },
+  {
+    "_id": "670f494d6ae5b1a3d8a240cd",
+    "billerType": "পোস্টপেইড",
+    "customerType": "নন-মিটার",
+    "params": [],
+    "biller": "65fc0a3e9a645478f3c3ff89",
+    "inputs": [
+      {
+        "key": "bll_no",
+        "label": "বিল নম্বর",
+        "max": 20,
+        "min": 4,
+        "type": "String",
+        "_id": "65fc0a3e9a645478f3c3ff8b"
+      }
+    ],
+    "name": "বিটিসিএল",
+    "fullName": "বাংলাদেশ টেলিকম্যুনিকেশনস কোম্পানী লিমিটেড",
+    "__v": 0
+  }
+]

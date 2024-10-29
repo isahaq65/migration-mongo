@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "670b4ad739b86b785e9e40ff",
+    "name": "Banglalink",
+    "type": [
+      {
+        "key": "pre",
+        "value": "Prepaid",
+        "_id": "6718c86bfa0219a871a1269b"
+      },
+      {
+        "key": "post",
+        "value": "Postpaid",
+        "_id": "6718c86bfa0219a871a1269c"
+      }
+    ],
+    "paymentTypeId": 2,
+    "initialDigits": "019",
+    "active": true,
+    "__v": 3
+  },
+  {
+    "_id": "670b526439b86b785e9e4a40",
+    "name": "Grameen Phone",
+    "type": [
+      {
+        "key": "Pre",
+        "value": "Prepaid",
+        "_id": "670b5542191568b0d0f1ac1b"
+      },
+      {
+        "key": "Post",
+        "value": "Postpaid",
+        "_id": "670b5542191568b0d0f1ac1c"
+      }
+    ],
+    "paymentTypeId": 1,
+    "initialDigits": "017",
+    "active": true,
+    "__v": 2
+  },
+  {
+    "_id": "670b54d8191568b0d0f1ab55",
+    "name": "Airtel",
+    "type": [
+      {
+        "key": "pre",
+        "value": "Prepaid",
+        "_id": "670b555f191568b0d0f1ac84"
+      },
+      {
+        "key": "post",
+        "value": "Postpaid",
+        "_id": "670b555f191568b0d0f1ac85"
+      }
+    ],
+    "paymentTypeId": 2,
+    "initialDigits": "016",
+    "active": true,
+    "__v": 1
+  },
+  {
+    "_id": "670b5581191568b0d0f1aca3",
+    "name": "Robi",
+    "type": [
+      {
+        "key": "pre",
+        "value": "Prepaid",
+        "_id": "670b5581191568b0d0f1aca4"
+      },
+      {
+        "key": "post",
+        "value": "Postpaid",
+        "_id": "670b5581191568b0d0f1aca5"
+      }
+    ],
+    "paymentTypeId": 2,
+    "initialDigits": "018",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": "670b55c4191568b0d0f1acfb",
+    "name": "Teletalk",
+    "type": [
+      {
+        "key": "pre",
+        "value": "Prepaid",
+        "_id": "6718c807fa0219a871a124bb"
+      },
+      {
+        "key": "post",
+        "value": "Postpaid",
+        "_id": "6718c807fa0219a871a124bc"
+      }
+    ],
+    "paymentTypeId": 2,
+    "initialDigits": "015",
+    "active": true,
+    "__v": 2
+  },
+  {
+    "_id": "67109a205d5144cc73721d1f",
+    "name": "Jlink",
+    "type": [
+      {
+        "key": "pre",
+        "value": "Prepaid",
+        "_id": "67109b275d5144cc73721dc9"
+      }
+    ],
+    "paymentTypeId": 1,
+    "initialDigits": "012",
+    "active": false,
+    "__v": 1
+  },
+  {
+    "_id": "67109b4d5d5144cc73721dea",
+    "name": "asdf",
+    "type": [
+      {
+        "key": "pre",
+        "value": "Preapid",
+        "_id": "67109b4d5d5144cc73721deb"
+      }
+    ],
+    "paymentTypeId": 1,
+    "initialDigits": "012",
+    "active": false,
+    "__v": 0
+  }
+]
