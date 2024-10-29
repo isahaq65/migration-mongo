@@ -82,12 +82,13 @@ The script allows seamless export of MongoDB data from one server and import to 
      0 0 * * * /usr/bin/node /path/to/export.js
      ```
 
-### Example Scripts
+### File Explaination
 
 Here are example scripts for the `export.js` and `migrate.js` files:
 
-- **export.js**: Exports all collections from the source database.
-- **migrate.js**: Imports JSON data into the target database.
+- **exportDatabase.js**: Exports all collections from the source database to local in JSON format.
+- **migrate.js**: migrate database locally as per migration srcipt in operationScript folder.
+- **importToNewDatabase.js**:Imports JSON data into the target database.
 
 Make sure these scripts are properly configured to handle error cases and log output for troubleshooting.
 
